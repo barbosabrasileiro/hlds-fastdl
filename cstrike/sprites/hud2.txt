@@ -1,0 +1,41 @@
+//multikill CSO
+
+kill_last            640 mark/kill_last     0     0     0     0
+kill_revenge            640 mark/kill_revenge     0     0     0     0
+kill_headshot            640 mark/kill_headshot     0     0     0     0
+kill_knife            640 mark/kill_knife     0     0     0     0
+kill_he                640 mark/kill_he     0     0     0     0
+wall_shot            640 mark/wall_shot     0     0     0     0
+wall_shot_hs            640 mark/wall_shot_hs     0     0     0     0
+kill_1                640 mark/kill_1     0     0     0     -90
+kill_2                640 mark/kill_2     0     0     0     -90
+kill_3                640 mark/kill_3     0     0     0     -90
+kill_4                640 mark/kill_4     0     0     0     -90
+kill_5                640 mark/kill_5     0     0     0     -90
+kill_6                640 mark/kill_6     0     0     0     -90
+kill_7                640 mark/kill_7     0     0     0     -90
+kill_8                640 mark/kill_8     0     0     0     -90
+kill_9                640 mark/kill_9     0     0     0     -90
+kill_10               640 mark/kill_10     0     0     0     -90
+kill_11               640 mark/kill_11     0     0     0     -90
+kill_12               640 mark/kill_12     0     0     0     -90
+kill_13               640 mark/kill_13     0     0     0     -90
+kill_14               640 mark/kill_14     0     0     0     -90
+kill_15               640 mark/kill_15     0     0     0     -90
+kill_16               640 mark/kill_16     0     0     0     -90
+kill_17               640 mark/kill_17     0     0     0     -90
+kill_18               640 mark/kill_18     0     0     0     -90
+kill_19               640 mark/kill_19     0     0     0     -90
+kill_20               640 mark/kill_20     0     0     0     -90
+kill_21               640 mark/kill_21     0     0     0     -90
+kill_22               640 mark/kill_12     0     0     0     -90
+kill_23               640 mark/kill_23     0     0     0     -90
+kill_24               640 mark/kill_24     0     0     0     -90
+kill_25               640 mark/kill_25     0     0     0     -90
+kill_first            640 mark/kill_first     0     0     0     -90
+c4_defuse            640 mark/c4_defuse     0     0     0     -90
+c4_set                640 mark/c4_set     0     0     0     -90 
+kill_last	     640 mark/kill_last 0 0 0	-90
+//score CSO
+
+score                   640 score       0       0       1024    368
