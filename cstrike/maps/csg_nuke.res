@@ -1,15 +1,9 @@
-// csg_nuke.res - created with RESGen v2.0.2.
-// RESGen is made by Jeroen "ShadowLord" Bogers,
-// with serveral improvements and additions by Zero3Cool.
-// For more info go to http://resgen.hltools.com
-
-// .res entries (23):
-gfx/env/skybox/hr_nukebk.tga
-gfx/env/skybox/hr_nukedn.tga
-gfx/env/skybox/hr_nukeft.tga
-gfx/env/skybox/hr_nukelf.tga
-gfx/env/skybox/hr_nukert.tga
-gfx/env/skybox/hr_nukeup.tga
+gfx/env/dustbk.tga
+gfx/env/dustdn.tga
+gfx/env/dustft.tga
+gfx/env/dustlf.tga
+gfx/env/dustrt.tga
+gfx/env/dustup.tga
 models/props/cs_office/swat_van.mdl
 models/props/de_nuke/nuke_modelgroup_static.mdl
 models/props/de_nuke/nuke_modelgroup_static2.mdl
