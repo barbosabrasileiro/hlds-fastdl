@@ -1,0 +1,19 @@
+// overview description file for CSS_Mirage_Go.bsp
+
+global 
+{
+	ZOOM	1.30
+	ORIGIN	-1092.00 	-1296.00	-88.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/CSS_Mirage_Go.bmp"
+	HEIGHT	-689.00
+}
+
+
+
+
+
