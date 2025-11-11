@@ -1,0 +1,20 @@
+// overview description file for CSS_Dust2_Go.bsp
+
+global 
+{
+	ZOOM	1.07
+	ORIGIN	876.00 	-704.00	824.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/CSS_Dust2_Go.bmp"
+	HEIGHT	175.00
+}
+
+
+
+
+
+
