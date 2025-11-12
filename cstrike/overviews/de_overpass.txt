@@ -1,0 +1,23 @@
+// overview description file for CSS_Overpass.bsp
+
+global 
+{
+	ZOOM	1.09
+	ORIGIN	-144.00 	-668.00	-76.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/CSS_Overpass.bmp"
+	HEIGHT	-857.00
+}
+
+
+
+
+
+
+
+
+
