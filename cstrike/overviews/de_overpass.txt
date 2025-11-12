@@ -1,4 +1,4 @@
-// overview description file for CSS_Overpass.bsp
+// overview description file for de_overpass.bsp
 
 global 
 {
@@ -9,7 +9,7 @@ global
 
 layer 
 {
-	IMAGE	"overviews/CSS_Overpass.bmp"
+	IMAGE	"overviews/de_overpass.bmp"
 	HEIGHT	-857.00
 }
 
