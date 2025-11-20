@@ -1,0 +1,14 @@
+// overview description file for css_dust20.bsp
+
+global 
+{
+	ZOOM	1.44
+	ORIGIN	1275 	-1205     175
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/css_dust20.bmp"
+	HEIGHT	175
+}
