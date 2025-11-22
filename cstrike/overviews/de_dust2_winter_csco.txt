@@ -1,0 +1,14 @@
+// overview description file for de_dust2_winter_csco.bsp
+
+global 
+{
+	ZOOM	1.41
+	ORIGIN	-367    1304    -209
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_dust2_winter_csco.bmp"
+	HEIGHT	-209
+}
