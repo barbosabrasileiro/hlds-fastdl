@@ -1,0 +1,14 @@
+// overview description file for de_indust2.bsp
+
+global 
+{
+	ZOOM	1.35
+	ORIGIN	-151	1075	-1102
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_indust2.bmp"
+	HEIGHT	-1102
+}
