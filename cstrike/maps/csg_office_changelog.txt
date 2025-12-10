@@ -1,0 +1,9 @@
+* Darker Theme
+* Intensified weather
+* Miscellaneous Fixes
+* Fixed some incorrect textures
+* Removed some objects on the FrontYard Area to improve FPS
+* Updated Skybox
+* Merged some similar objects (Pictures and Plants grouped into one model)
+* Added some effects
+* Added csg_office_install_uninstaller batch file to automate install, cleanup, and uninstall operations (This might not work on all systems. If occured, just do the manual install.) NOTE that these files must be in your cstrike directory for this to work.

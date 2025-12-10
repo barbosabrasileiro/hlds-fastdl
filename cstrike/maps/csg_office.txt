@@ -1,0 +1,16 @@
+----+	GO: Office - Hostage Rescue
+----+
+----+	Remade by Meowth
+----+	Original Map by Alex Manilov
+----+	Textures by Valve Software, Hidden Path Entertainment.
+----+
+----+	Counter-Terrorists: Enter the office
+----+	building and rescue the hostages.
+----+	Take out the Terrorists without
+----+	jeopardizing the hostages.
+----+
+----+	Terrorists: Prevent Counter-Terrorist
+----+	force from rescuing the hostages.
+----+
+----+	Other Notes: There are 4 hostages in
+----+	this mission.

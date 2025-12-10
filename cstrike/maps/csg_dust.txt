@@ -1,0 +1,18 @@
+Dust - Bomb/Defuse: Global Offensive Map for 1.6
+
+Remade by Meowth
+
+Original Map by Dave Johnston
+Textures/Models: Valve, Hidden Path Entertainment, m3owth_47
+Sound FX: Valve, m3owth_47
+
+Counter-Terrorists: Prevent Terrorists
+from bombing any of the terrorists' bomb spots.
+Team members must defuse any bombs 
+that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the bomb spots or eliminate
+all of the opposing forces.
+
+Other Notes: There are 2 bomb spots in this mission.
