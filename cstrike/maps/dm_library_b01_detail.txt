@@ -1,0 +1,56 @@
+// [texture name]	[detail texture name]			[hscale]	[vscale]
+
+lib_bcase01a_m		dm_library_b01/lib_bookcase01a_hd	1.0 		1.0
+lib_bcase01b_m		dm_library_b01/lib_bookcase01b_hd	1.0 		1.0
+lib_bcase01c_m		dm_library_b01/lib_bookcase01c_hd	1.0 		1.0
+lib_bcase01d_m		dm_library_b01/lib_bookcase01d_hd	1.0 		1.0
+lib_bcase01e_m		dm_library_b01/lib_bookcase01e_hd	1.0 		1.0
+lib_bcase01f_m		dm_library_b01/lib_bookcase01f_hd	1.0 		1.0
+lib_books01_m		dm_library_b01/lib_books01_hd		1.0 		1.0
+
+lib_case01_m		dm_library_b01/lib_case01_hd		1.0 		1.0
+
+lib_detail01a_m		dm_library_b01/lib_detail01a_hd		1.0 		1.0
+lib_detail01b_m		dm_library_b01/lib_detail01b_hd		1.0 		1.0
+lib_doorframe_m		dm_library_b01/lib_doorframe_hd		1.0 		1.0
+lib_door01_m		dm_library_b01/lib_door01_hd		1.0 		1.0
+lib_door02a_m		dm_library_b01/lib_door02a_hd		1.0 		1.0
+lib_door02b_m		dm_library_b01/lib_door02b_hd		1.0 		1.0
+lib_door02c_m		dm_library_b01/lib_door02c_hd		1.0 		1.0
+
+lib_floor01_m		dm_library_b01/lib_floor01_hd		1.0 		1.0
+lib_floor02_m		dm_library_b01/lib_floor02_hd		1.0 		1.0
+lib_floor03_m		dm_library_b01/lib_floor03_hd		1.0 		1.0
+lib_floor04_m		dm_library_b01/lib_floor04_hd		1.0 		1.0
+lib_floor05_m		dm_library_b01/lib_floor05_hd		1.0 		1.0
+lib_floor06a_m		dm_library_b01/lib_floor06_hd		1.0 		1.0
+lib_floor06b_m		dm_library_b01/lib_floor06_hd		1.0 		1.0
+lib_floor07_m		dm_library_b01/lib_floor07_hd		1.0 		1.0
+
+lib_molding01_m		dm_library_b01/lib_molding01_hd		1.0 		1.0
+lib_molding02_m		dm_library_b01/lib_molding02_hd		1.0 		1.0
+lib_molding03_m		dm_library_b01/lib_molding03_hd		1.0 		1.0
+lib_molding04_m		dm_library_b01/lib_molding04_hd		1.0 		1.0
+
+lib_roof01_m		dm_library_b01/lib_roof01_hd		1.0 		1.0
+
+lib_trim01a_m		dm_library_b01/lib_trim01a_hd		1.0 		1.0
+lib_trim01b_m		dm_library_b01/lib_trim01b_hd		1.0 		1.0
+lib_trim01c_m		dm_library_b01/lib_trim01c_hd		1.0 		1.0
+lib_trim01d_m		dm_library_b01/lib_trim01d_hd		1.0 		1.0
+lib_trim02a_m		dm_library_b01/lib_trim02a_hd		1.0 		1.0
+lib_trim02b_m		dm_library_b01/lib_trim02b_hd		1.0 		1.0
+
+lib_wall01_m		dm_library_b01/lib_wall01_hd		1.0 		1.0
+lib_wall02_m		dm_library_b01/lib_wall02_hd		1.0 		1.0
+lib_wall03_m		dm_library_b01/lib_wall03_hd		1.0 		1.0
+lib_wall04_m		dm_library_b01/lib_wall04_hd		1.0 		1.0
+lib_wall05_m		dm_library_b01/lib_wall05_hd		1.0 		1.0
+lib_wall06_m		dm_library_b01/lib_wall06_hd		1.0 		1.0
+lib_wall07a_m		dm_library_b01/lib_wall07a_hd		1.0 		1.0
+lib_wall07b_m		dm_library_b01/lib_wall07b_hd		1.0 		1.0
+lib_wall08a_m		dm_library_b01/lib_wall08a_hd		1.0 		1.0
+lib_wall08b_m		dm_library_b01/lib_wall08b_hd		1.0 		1.0
+lib_wall09_m		dm_library_b01/lib_wall09_hd		1.0 		1.0
+lib_wall10_m		dm_library_b01/lib_wall10_hd		1.0 		1.0
+lib_wall11_m		dm_library_b01/lib_wall11_hd		1.0 		1.0

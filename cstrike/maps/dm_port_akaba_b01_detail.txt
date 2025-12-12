@@ -1,0 +1,50 @@
+// [texture name]	[detail texture name]			[hscale]	[vscale]
+
+pa_box01a		detail/point_blank/hdr			1.0 		1.0
+pa_box01b		detail/point_blank/hdr			1.0 		1.0
+pa_box01c		detail/point_blank/hdr			1.0 		1.0
+pa_box01d		detail/point_blank/hdr			1.0 		1.0
+pa_box02a		detail/point_blank/hdr			1.0 		1.0
+pa_box02b		detail/point_blank/hdr			1.0 		1.0
+pa_box02c		detail/point_blank/hdr			1.0 		1.0
+pa_box02d		detail/point_blank/hdr			1.0 		1.0
+
+pa_cables		detail/point_blank/hdr			1.0 		1.0
+
+pa_cont01a		detail/point_blank/hdr			1.0 		1.0
+pa_cont01b		detail/point_blank/hdr			1.0 		1.0
+pa_cont01c		detail/point_blank/hdr			1.0 		1.0
+pa_cont02a		detail/point_blank/hdr			1.0 		1.0
+pa_cont02b		detail/point_blank/hdr			1.0 		1.0
+pa_cont02c		detail/point_blank/hdr			1.0 		1.0
+pa_cont03		detail/point_blank/hdr			1.0 		1.0
+pa_cont04		detail/point_blank/hdr			1.0 		1.0
+
+pa_crane01a		detail/point_blank/hdr			1.0 		1.0
+pa_crane01b		detail/point_blank/hdr			1.0 		1.0
+pa_crane01c		detail/point_blank/hdr			1.0 		1.0
+
+pa_crate01		detail/point_blank/hdr			1.0 		1.0
+
+pa_floor01a		detail/point_blank/hdr			1.0 		1.0
+pa_floor01b		detail/point_blank/hdr			1.0 		1.0
+pa_floor01c		detail/point_blank/hdr			1.0 		1.0
+pa_floor02a		detail/point_blank/hdr			1.0 		1.0
+pa_floor02b		detail/point_blank/hdr			1.0 		1.0
+pa_floor03		detail/point_blank/hdr			1.0 		1.0
+pa_floor04		detail/point_blank/hdr			1.0 		1.0
+
+pa_shutter		detail/point_blank/hdr			1.0 		1.0
+pa_stairs01		detail/point_blank/hdr			1.0 		1.0
+pa_trim01		detail/point_blank/hdr			1.0 		1.0
+pa_trim02		detail/point_blank/hdr			1.0 		1.0
+pa_trim03		detail/point_blank/hdr			1.0 		1.0
+pa_trim04		detail/point_blank/hdr			1.0 		1.0
+
+pa_wall01a		detail/point_blank/hdr			1.0 		1.0
+pa_wall01b		detail/point_blank/hdr			1.0 		1.0
+pa_wall01c		detail/point_blank/hdr			1.0 		1.0
+pa_wall01d		detail/point_blank/hdr			1.0 		1.0
+pa_wall01e		detail/point_blank/hdr			1.0 		1.0
+pa_wall02a		detail/point_blank/hdr			1.0 		1.0
+pa_wall02b		detail/point_blank/hdr			1.0 		1.0
