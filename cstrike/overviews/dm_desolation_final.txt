@@ -1,0 +1,14 @@
+// overview description file for dm_desolation_final.bsp
+
+global 
+{
+	ZOOM	2.33
+	ORIGIN	20.94 	1.69	-64
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/dm_desolation_final.bmp"
+	HEIGHT	-64
+}

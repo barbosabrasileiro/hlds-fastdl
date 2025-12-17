@@ -1,0 +1,28 @@
+dm_shipment (Deathmatch)
+
+Map by Schiff (www.gamebanana.com/members/884411)
+
+
+This is my proper version, of Call Of Duty 4 "mp_shipment" map. Small map, for 1x1 and 3x3 battles.
+
+
+Credits:
+Schiff - Mapping
+Nexon - Textures, models
+Ritual - Textures, models
+Turtle Rock Studio - Textures, models
+PKGamerX - Prefab
+Buzzer - Models
+
+
+Original map design:
+Infinity Ward
+
+
+Special thanks:
+PKGamerX - Tips, testing.
+Alberto309 - Tips
+
+
+Schiff
+16.08.15

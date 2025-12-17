@@ -1,0 +1,14 @@
+// overview description file for dm_shipment.bsp
+
+global 
+{
+	ZOOM	2.05
+	ORIGIN	-141.38	51.12	928.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/dm_shipment.bmp"
+	HEIGHT	-94.00
+}
