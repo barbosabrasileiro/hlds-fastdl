@@ -1,0 +1,35 @@
+Forsaken-Hostages Rescue
+Original zg_forsaken by South Korea Nexon
+Port by Izuko Fukuda
+
+In a city that has long been in ruins due to the war, it has become a utopia 
+for a group of local gangsters: they hide four kidnapped national politicians in two 
+abandoned buildings in the abandoned city, but the disappearance of the dignitaries 
+undoubtedly attracts the attention of the country's military: they are soon in the vicinity 
+of the deserted city, and the terrorists have already prepared their defenses and are 
+threatening the lives of politicians as leverage! Counter-terrorist forces to fall back, a 
+huge ransom and a fleet of helicopters to escort them out of the country.
+
+Counter-Terrorists:
+Raid the abandoned city where the terrorists who have kidnapped 
+four of the country's most important political figures are hiding, find and rescue 
+the hostages and lead them back to the rescue site, or eliminate all 
+the terrorists in the city.
+Tip:If your squad have enough members,you may want to split up:
+one team uses smoke grenades and sniper rifles to delay the terrorists,
+while the other team goes around to rescue the hostages.
+
+Terrorists:
+The main force of the lowly government lackeys has been 
+scared off by the bargaining chip of being a hostage and the 
+fleet of helicopters that are being prepared to honorarium 
+and escort you to a life of ease abroad, but they are still t
+rying to send in the HRT to rescue the dignitaries to put a kibosh 
+on your plans to defend the buildings in the abandoned city 
+and the hostages and to eliminate the Counter-Terrorists.
+Tip:When leaving at least one person to guard the HRZ and
+another to guard the hostages,make good use of radio comm
+unication to check in with each other in case things change.
+
+Other Notes:
+There are four hostages in the abandoned city.
