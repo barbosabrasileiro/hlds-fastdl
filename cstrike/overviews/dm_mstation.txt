@@ -1,0 +1,14 @@
+// overview description file for dm_mstation.bsp
+
+global 
+{
+	ZOOM	3.61
+	ORIGIN	249.92 	721.95	160
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/dm_mstation.bmp"
+	HEIGHT	0
+}
