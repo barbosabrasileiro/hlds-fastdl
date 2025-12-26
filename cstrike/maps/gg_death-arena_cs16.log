@@ -1,0 +1,191 @@
+hlcsg v2.5.3 rel (May  2 2001)
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (zoner@gearboxsoftware.com)
+-----  BEGIN  hlcsg -----
+Command line: "C:\Programas\Valve Hammer Editor\tools\hlcsg.exe""C:\Documents and Settings\kafidu1\Ambiente de trabalho\gg_ag_textures_boxes\bxx"
+
+-= Current hlcsg Settings =-
+Name                 |  Setting  |  Default
+---------------------|-----------|-------------------------
+threads               [       2 ] [  Varies ]
+verbose               [     off ] [     off ]
+log                   [      on ] [      on ]
+developer             [       0 ] [       0 ]
+chart                 [     off ] [     off ]
+estimate              [     off ] [     off ]
+max texture memory    [ 4194304 ] [ 4194304 ]
+priority              [  Normal ] [  Normal ]
+
+noclip                [     off ] [     off ]
+onlyents              [     off ] [     off ]
+wadtextures           [      on ] [      on ]
+skyclip               [      on ] [      on ]
+hullfile              [    None ] [    None ]
+min surface area      [   0.500 ] [   0.500 ]
+brush union threshold [   0.000 ] [   0.000 ]
+
+Wadinclude list :
+[zhlt.wad]
+
+
+entering C:\Documents and Settings\kafidu1\Ambiente de trabalho\gg_ag_textures_boxes\bxx.map
+CreateBrush:
+ (1.09 seconds)
+SetModelCenters:
+ (0.00 seconds)
+CSGBrush:
+ (1.84 seconds)
+Using WAD File: \wads\halflife.wad
+Using WAD File: \wads\chaos3.wad
+Texture usage is at 0.51 mb (of 4.00 mb MAX)
+3.02 seconds elapsed
+
+-----   END   hlcsg -----
+
+
+
+hlbsp v2.5.3 rel (May  2 2001)
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (zoner@gearboxsoftware.com)
+-----  BEGIN  hlbsp -----
+Command line: "C:\Programas\Valve Hammer Editor\tools\hlbsp.exe""C:\Documents and Settings\kafidu1\Ambiente de trabalho\gg_ag_textures_boxes\bxx"
+
+-= Current hlbsp Settings =-
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       2 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+priority            [  Normal ] [  Normal ]
+
+noclip              [     off ] [     off ]
+nofill              [     off ] [     off ]
+notjunc             [     off ] [     off ]
+subdivide size      [     240 ] [     240 ] (Min 64) (Max 240)
+max node size       [    1024 ] [    1024 ] (Min 64) (Max 4096)
+
+
+BSP generation successful, writing portal file 'C:\Documents and Settings\kafidu1\Ambiente de trabalho\gg_ag_textures_boxes\bxx.prt'
+8.38 seconds elapsed
+
+-----   END   hlbsp -----
+
+
+
+hlvis v2.5.3 rel (May  2 2001)
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (zoner@gearboxsoftware.com)
+-----  BEGIN  hlvis -----
+Command line: "C:\Programas\Valve Hammer Editor\tools\hlvis.exe"-fast "C:\Documents and Settings\kafidu1\Ambiente de trabalho\gg_ag_textures_boxes\bxx"
+
+-= Current hlvis Settings =-
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       2 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+priority            [  Normal ] [  Normal ]
+
+fast vis            [      on ] [     off ]
+full vis            [     off ] [     off ]
+
+
+1083 portalleafs
+3516 numportals
+BasePortalVis:
+ (2.17 seconds)
+average leafs visible: 694
+g_visdatasize:138350  compressed from 147288
+2.33 seconds elapsed
+
+-----   END   hlvis -----
+
+
+
+hlrad v2.5.3 rel (May  2 2001)
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (zoner@gearboxsoftware.com)
+-----  BEGIN  hlrad -----
+Command line: "C:\Programas\Valve Hammer Editor\tools\hlrad.exe""C:\Documents and Settings\kafidu1\Ambiente de trabalho\gg_ag_textures_boxes\bxx"
+
+-= Current hlrad Settings =-
+Name                | Setting             | Default
+--------------------|---------------------|-------------------------
+threads              [                 2 ] [            Varies ]
+verbose              [               off ] [               off ]
+log                  [                on ] [                on ]
+developer            [                 0 ] [                 0 ]
+chart                [               off ] [               off ]
+estimate             [               off ] [               off ]
+max texture memory   [           4194304 ] [           4194304 ]
+priority             [            Normal ] [            Normal ]
+
+vismatrix algorithm  [          Original ] [          Original ]
+oversampling (-extra)[               off ] [               off ]
+bounces              [                 1 ] [                 1 ]
+ambient light        [ 0.000 0.000 0.000 ] [ 0.000 0.000 0.000 ]
+maximum light        [           256.000 ] [           256.000 ]
+circus mode          [               off ] [               off ]
+
+smoothing threshold  [            50.000 ] [            50.000 ]
+direct threshold     [            25.000 ] [            25.000 ]
+direct light scale   [             2.000 ] [             2.000 ]
+coring threshold     [             1.000 ] [             1.000 ]
+patch interpolation  [                on ] [                on ]
+
+texscale             [                on ] [                on ]
+patch subdividing    [                on ] [                on ]
+chop value           [            64.000 ] [            64.000 ]
+texchop value        [            32.000 ] [            32.000 ]
+
+global fade          [             1.000 ] [             1.000 ]
+global falloff       [                 2 ] [                 2 ]
+global light scale   [             1.000 ] [             1.000 ]
+global gamma amount  [             0.500 ] [             0.500 ]
+global sky diffusion [             1.000 ] [             1.000 ]
+
+opaque entities      [                on ] [                on ]
+sky lighting fix     [                on ] [                on ]
+incremental          [               off ] [               off ]
+dump                 [               off ] [               off ]
+
+
+[Reading texlights from 'C:\Programas\Valve Hammer Editor\tools\lights.rad']
+[59 texlights parsed from 'C:\Programas\Valve Hammer Editor\tools\lights.rad']
+
+6036 faces
+Create Patches : 36486 base patches
+0 opaque faces
+346669 square feet [49920476.00 square inches]
+17 direct lights
+
+BuildFacelights:
+ (27.70 seconds)
+visibility matrix   :  79.4 megs
+BuildVisLeafs:
+ (104.16 seconds)
+MakeScales:
+ (78.64 seconds)
+SwapTransfers:
+ (33.00 seconds)
+Transfer Lists : 50814438 transfers
+       Indices : 33285632 bytes
+          Data : 203257752 bytes
+GatherLight:
+ (2.75 seconds)
+FinalLightFace:
+ (3.48 seconds)
+250.50 seconds elapsed [4m 10s]
+
+-----   END   hlrad -----
+
+
+
