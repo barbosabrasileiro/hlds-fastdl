@@ -1,0 +1,23 @@
+Updated for the 4HM Gun Game Mod by ivix <http://www.bahamutzero.com>:
+(most) weapons, buyzones, bomb sites, and hostages have been removed.
+
+http://www.therubysquare.com
+
+email: info@therubysquare.com
+irc: irc.gamesurge.net #therubysquare
+
+CS:Source: 12.47.45.160:27017
+------------------------------------
+February 28th, 2005
+
+Map name: trs_aim_churches
+
+Author: [trs] Colt 45 -- Mgbass1984@aol.com
+
+Packaging and release by: [trs] hapos
+
+This map has been designed to accomodate 48 players.
+------------------------------------
+Objective: Combat / Skill -- Defeat all enemy opponents.
+
+Special thanks to everyone at trs.

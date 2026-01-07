@@ -1,0 +1,14 @@
+maps/gg_ng_hyperblast.bsp
+maps/gg_ng_hyperblast.txt
+maps/gg_ng_hyperblast.res
+sound/gg_ng_hyperblast/alien_cycletone.wav
+sound/gg_ng_hyperblast/beamstart7.wav
+sound/gg_ng_hyperblast/burning2.wav
+sound/gg_ng_hyperblast/rocketrumble1.wav
+sound/gg_ng_hyperblast/rotormachine.wav
+sound/gg_ng_hyperblast/techamb2.wav
+sprites/gg_ng_hyperblast/blueflare1.spr
+sprites/gg_ng_hyperblast/flare1.spr
+sprites/gg_ng_hyperblast/glow01.spr
+sprites/gg_ng_hyperblast/tele1.spr
+gg_ng_hyperblast.wad

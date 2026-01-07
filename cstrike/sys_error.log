@@ -1,0 +1,447 @@
+L 17/11/2023 - 17:55:37: (map "de_dust2") Unable to initialize Steam.
+L 29/08/2025 - 13:39:41: (map "") Host_Error: PF_setmodel_I: no precache: urban
+
+
+L 29/08/2025 - 22:43:50: (map "de_dust2") Mod_LoadModel: sprites/gunsmoke.spr not found
+L 29/08/2025 - 22:44:00: (map "de_dust2") Mod_LoadModel: sprites/gunsmoke.spr not found
+L 29/08/2025 - 22:44:11: (map "de_dust2") Mod_LoadModel: sprites/gunsmoke.spr not found
+L 29/08/2025 - 22:44:21: (map "de_dust2") Mod_LoadModel: sprites/gunsmoke.spr not found
+L 29/08/2025 - 22:44:32: (map "de_dust2") Mod_LoadModel: sprites/gunsmoke.spr not found
+L 29/08/2025 - 22:44:42: (map "de_dust2") Mod_LoadModel: sprites/gunsmoke.spr not found
+L 31/08/2025 - 15:32:03: (map "fy_iceworld") TEX_InitFromWad: couldn't open de_vegas.wad
+
+L 31/08/2025 - 16:02:11: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:02:22: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:02:32: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:02:43: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:02:54: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:03:04: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:03:15: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:03:25: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:03:36: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:03:47: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:03:59: (map "(null)") NET_OpenIP: Couldn't allocate dedicated server IP port 27650.
+L 31/08/2025 - 16:03:59: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:04:09: (map "(null)") NET_OpenIP: Couldn't allocate dedicated server IP port 27650.
+L 31/08/2025 - 16:04:09: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:04:20: (map "(null)") NET_OpenIP: Couldn't allocate dedicated server IP port 27650.
+L 31/08/2025 - 16:04:20: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:04:31: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:04:43: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:04:53: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:05:04: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:05:15: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:06:21: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:06:32: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:06:42: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:06:53: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:07:03: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:07:14: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:07:24: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:07:35: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:07:46: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:07:56: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:08:07: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:08:40: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:08:51: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:09:02: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:09:12: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:09:23: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:09:33: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:09:44: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:09:54: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:10:05: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:10:16: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:10:42: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:10:53: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:11:03: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 31/08/2025 - 16:11:14: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 01/09/2025 - 21:42:22: (map "de_dust2") Mod_LoadModel: sprites/custom_smoke_csnostalgia.spr not found
+L 01/09/2025 - 21:42:32: (map "de_dust2") Mod_LoadModel: sprites/custom_smoke_csnostalgia.spr not found
+L 01/09/2025 - 21:42:43: (map "de_dust2") Mod_LoadModel: sprites/custom_smoke_csnostalgia.spr not found
+L 01/09/2025 - 21:42:53: (map "de_dust2") Mod_LoadModel: sprites/custom_smoke_csnostalgia.spr not found
+L 01/09/2025 - 21:43:04: (map "de_dust2") Mod_LoadModel: sprites/custom_smoke_csnostalgia.spr not found
+L 01/09/2025 - 21:43:14: (map "de_dust2") Mod_LoadModel: sprites/custom_smoke_csnostalgia.spr not found
+L 01/09/2025 - 21:43:25: (map "de_dust2") Mod_LoadModel: sprites/custom_smoke_csnostalgia.spr not found
+L 01/09/2025 - 21:43:35: (map "de_dust2") Mod_LoadModel: sprites/custom_smoke_csnostalgia.spr not found
+L 01/09/2025 - 21:43:46: (map "de_dust2") Mod_LoadModel: sprites/custom_smoke_csnostalgia.spr not found
+L 07/09/2025 - 06:12:13: (map "de_dust2") Mod_LoadModel: models/armasfemininas/v_stg44_female not found
+L 07/09/2025 - 06:12:24: (map "de_dust2") Mod_LoadModel: models/armasfemininas/v_stg44_female not found
+L 07/09/2025 - 06:12:34: (map "de_dust2") Mod_LoadModel: models/armasfemininas/v_stg44_female not found
+L 07/09/2025 - 06:12:45: (map "de_dust2") Mod_LoadModel: models/armasfemininas/v_stg44_female not found
+L 07/09/2025 - 06:12:55: (map "de_dust2") Mod_LoadModel: models/armasfemininas/v_stg44_female not found
+L 07/09/2025 - 06:13:06: (map "de_dust2") Mod_LoadModel: models/armasfemininas/v_stg44_female not found
+L 07/09/2025 - 06:13:16: (map "de_dust2") Mod_LoadModel: models/armasfemininas/v_stg44_female not found
+L 07/09/2025 - 06:13:27: (map "de_dust2") Mod_LoadModel: models/armasfemininas/v_stg44_female not found
+L 07/09/2025 - 06:13:37: (map "de_dust2") Mod_LoadModel: models/armasfemininas/v_stg44_female not found
+L 07/09/2025 - 06:13:48: (map "de_dust2") Mod_LoadModel: models/armasfemininas/v_stg44_female not found
+L 07/09/2025 - 06:13:58: (map "de_dust2") Mod_LoadModel: models/armasfemininas/v_stg44_female not found
+L 07/09/2025 - 06:14:09: (map "de_dust2") Mod_LoadModel: models/armasfemininas/v_stg44_female not found
+L 07/09/2025 - 06:14:19: (map "de_dust2") Mod_LoadModel: models/armasfemininas/v_stg44_female not found
+L 07/09/2025 - 06:14:29: (map "de_dust2") Mod_LoadModel: models/armasfemininas/v_stg44_female not found
+L 07/09/2025 - 06:14:40: (map "de_dust2") Mod_LoadModel: models/armasfemininas/v_stg44_female not found
+L 07/09/2025 - 06:14:50: (map "de_dust2") Mod_LoadModel: models/armasfemininas/v_stg44_female not found
+L 07/09/2025 - 06:15:10: (map "de_dust2") Mod_LoadModel: models/armasfemininas/v_stg44_female not found
+L 07/09/2025 - 06:15:21: (map "de_dust2") Mod_LoadModel: models/armasfemininas/v_stg44_female not found
+L 07/09/2025 - 06:15:31: (map "de_dust2") Mod_LoadModel: models/armasfemininas/v_stg44_female not found
+L 07/09/2025 - 06:15:42: (map "de_dust2") Mod_LoadModel: models/armasfemininas/v_stg44_female not found
+L 07/09/2025 - 06:15:52: (map "de_dust2") Mod_LoadModel: models/armasfemininas/v_stg44_female not found
+L 07/09/2025 - 06:16:03: (map "de_dust2") Mod_LoadModel: models/armasfemininas/v_stg44_female not found
+L 07/09/2025 - 06:16:13: (map "de_dust2") Mod_LoadModel: models/armasfemininas/v_stg44_female not found
+L 07/09/2025 - 06:16:23: (map "de_dust2") Mod_LoadModel: models/armasfemininas/v_stg44_female not found
+L 07/09/2025 - 06:16:34: (map "de_dust2") Mod_LoadModel: models/armasfemininas/v_stg44_female not found
+L 07/09/2025 - 06:16:44: (map "de_dust2") Mod_LoadModel: models/armasfemininas/v_stg44_female not found
+L 07/09/2025 - 06:16:55: (map "de_dust2") Mod_LoadModel: models/armasfemininas/v_stg44_female not found
+L 07/09/2025 - 06:17:05: (map "de_dust2") Mod_LoadModel: models/armasfemininas/v_stg44_female not found
+L 07/09/2025 - 06:17:16: (map "de_dust2") Mod_LoadModel: models/armasfemininas/v_stg44_female not found
+L 07/09/2025 - 06:17:26: (map "de_dust2") Mod_LoadModel: models/armasfemininas/v_stg44_female not found
+L 07/09/2025 - 06:17:53: (map "de_dust2") SV_ModelIndex: SV_ModelIndex: model models/armasmasculinas/w_stg44.mdl not precached
+L 07/09/2025 - 20:59:22: (map "de_dust2") Mod_LoadModel: models/p_m24.mdl not found
+L 07/09/2025 - 20:59:33: (map "de_dust2") Mod_LoadModel: models/p_m24.mdl not found
+L 07/09/2025 - 20:59:44: (map "de_dust2") Mod_LoadModel: models/p_m24.mdl not found
+L 07/09/2025 - 20:59:54: (map "de_dust2") Mod_LoadModel: models/p_m24.mdl not found
+L 07/09/2025 - 21:00:05: (map "de_dust2") Mod_LoadModel: models/p_m24.mdl not found
+L 07/09/2025 - 21:00:16: (map "de_dust2") Mod_LoadModel: models/p_m24.mdl not found
+L 07/09/2025 - 21:00:26: (map "de_dust2") Mod_LoadModel: models/p_m24.mdl not found
+L 07/09/2025 - 21:00:37: (map "de_dust2") Mod_LoadModel: models/p_m24.mdl not found
+L 07/09/2025 - 21:00:48: (map "de_dust2") Mod_LoadModel: models/p_m24.mdl not found
+L 08/09/2025 - 21:40:05: (map "de_dust2") Mod_LoadModel: models/x/p_magicsg.mdl has been modified since starting the engine.  Consider running system diagnostics to check for faulty hardware.
+
+L 10/09/2025 - 13:29:43: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/w_guitar.mdl not found
+L 10/09/2025 - 13:29:53: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/w_guitar.mdl not found
+L 10/09/2025 - 13:30:04: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/w_guitar.mdl not found
+L 10/09/2025 - 13:30:14: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/w_guitar.mdl not found
+L 10/09/2025 - 13:30:25: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/w_guitar.mdl not found
+L 10/09/2025 - 13:30:36: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/w_guitar.mdl not found
+L 11/09/2025 - 14:31:53: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/v_poisongun.mdl not found
+L 11/09/2025 - 23:03:07: (map "de_dust2") Mod_LoadModel: models/weapons/armasmasculinas/cannondragon/v_cannonm.mdl not found
+L 11/09/2025 - 23:03:18: (map "de_dust2") Mod_LoadModel: models/weapons/armasmasculinas/cannondragon/v_cannonm.mdl not found
+L 11/09/2025 - 23:03:29: (map "de_dust2") Mod_LoadModel: models/weapons/armasmasculinas/cannondragon/v_cannonm.mdl not found
+L 11/09/2025 - 23:03:40: (map "de_dust2") Mod_LoadModel: models/weapons/armasmasculinas/cannondragon/v_cannonm.mdl not found
+L 11/09/2025 - 23:03:51: (map "de_dust2") Mod_LoadModel: models/weapons/armasmasculinas/cannondragon/v_cannonm.mdl not found
+L 11/09/2025 - 23:04:01: (map "de_dust2") Mod_LoadModel: models/weapons/armasmasculinas/cannondragon/v_cannonm.mdl not found
+L 11/09/2025 - 23:04:12: (map "de_dust2") Mod_LoadModel: models/weapons/armasmasculinas/cannondragon/v_cannonm.mdl not found
+L 11/09/2025 - 23:04:23: (map "de_dust2") Mod_LoadModel: models/weapons/armasmasculinas/v_cannonm.mdl not found
+L 11/09/2025 - 23:04:33: (map "de_dust2") Mod_LoadModel: models/weapons/armasmasculinas/v_cannonm.mdl not found
+L 11/09/2025 - 23:04:44: (map "de_dust2") Mod_LoadModel: models/weapons/armasmasculinas/v_cannonm.mdl not found
+L 11/09/2025 - 23:04:55: (map "de_dust2") Mod_LoadModel: models/weapons/armasmasculinas/v_cannonm.mdl not found
+L 11/09/2025 - 23:05:06: (map "de_dust2") Mod_LoadModel: models/weapons/armasmasculinas/v_cannonm.mdl not found
+L 11/09/2025 - 23:05:16: (map "de_dust2") Mod_LoadModel: models/weapons/armasmasculinas/v_cannonm.mdl not found
+L 11/09/2025 - 23:05:27: (map "de_dust2") Mod_LoadModel: models/weapons/armasmasculinas/v_cannonm.mdl not found
+L 11/09/2025 - 23:05:38: (map "de_dust2") Mod_LoadModel: models/weapons/armasmasculinas/v_cannonm.mdl not found
+L 11/09/2025 - 23:05:49: (map "de_dust2") Mod_LoadModel: models/weapons/armasmasculinas/v_cannonm.mdl not found
+L 11/09/2025 - 23:05:59: (map "de_dust2") Mod_LoadModel: models/weapons/armasmasculinas/v_cannonm.mdl not found
+L 11/09/2025 - 23:06:10: (map "de_dust2") Mod_LoadModel: models/weapons/armasmasculinas/v_cannonm.mdl not found
+L 11/09/2025 - 23:06:21: (map "de_dust2") Mod_LoadModel: models/weapons/armasmasculinas/v_cannonm.mdl not found
+L 11/09/2025 - 23:06:32: (map "de_dust2") Mod_LoadModel: models/weapons/armasmasculinas/v_cannonm.mdl not found
+L 11/09/2025 - 23:06:42: (map "de_dust2") Mod_LoadModel: models/weapons/armasmasculinas/v_cannonm.mdl not found
+L 11/09/2025 - 23:06:53: (map "de_dust2") Mod_LoadModel: models/weapons/armasmasculinas/v_cannonm.mdl not found
+L 11/09/2025 - 23:07:07: (map "de_dust2") Mod_LoadModel: models/weapons/armasmasculinas/v_cannonm.mdl not found
+L 11/09/2025 - 23:07:17: (map "de_dust2") Mod_LoadModel: models/weapons/armasmasculinas/v_cannonm.mdl not found
+L 11/09/2025 - 23:07:28: (map "de_dust2") Mod_LoadModel: models/weapons/armasmasculinas/v_cannonm.mdl not found
+L 11/09/2025 - 23:07:39: (map "de_dust2") Mod_LoadModel: models/weapons/armasmasculinas/v_cannonm.mdl not found
+L 11/09/2025 - 23:07:51: (map "de_dust2") Mod_LoadModel: models/weapons/armasmasculinas/v_cannonm.mdl not found
+L 11/09/2025 - 23:08:02: (map "de_dust2") Mod_LoadModel: models/weapons/armasmasculinas/v_cannonm.mdl not found
+L 11/09/2025 - 23:08:12: (map "de_dust2") Mod_LoadModel: models/weapons/armasmasculinas/v_cannonm.mdl not found
+L 11/09/2025 - 23:08:23: (map "de_dust2") Mod_LoadModel: sprites/weapons/gungame1/cannondragon/flame_puff01.spr not found
+L 11/09/2025 - 23:08:34: (map "de_dust2") Mod_LoadModel: sprites/weapons/gungame1/cannondragon/flame_puff01.spr not found
+L 11/09/2025 - 23:08:45: (map "de_dust2") Mod_LoadModel: sprites/weapons/gungame1/cannondragon/flame_puff01.spr not found
+L 11/09/2025 - 23:08:55: (map "de_dust2") Mod_LoadModel: sprites/weapons/gungame1/cannondragon/flame_puff01.spr not found
+L 11/09/2025 - 23:09:06: (map "de_dust2") Mod_LoadModel: sprites/weapons/gungame1/cannondragon/flame_puff01.spr not found
+L 11/09/2025 - 23:09:17: (map "de_dust2") Mod_LoadModel: sprites/weapons/gungame1/cannondragon/flame_puff01.spr not found
+L 11/09/2025 - 23:09:28: (map "de_dust2") Mod_LoadModel: sprites/weapons/gungame1/cannondragon/flame_puff01.spr not found
+L 11/09/2025 - 23:09:38: (map "de_dust2") Mod_LoadModel: sprites/weapons/gungame1/cannondragon/flame_puff01.spr not found
+L 11/09/2025 - 23:09:49: (map "de_dust2") Mod_LoadModel: sprites/weapons/gungame1/cannondragon/flame_puff01.spr not found
+L 11/09/2025 - 23:10:00: (map "de_dust2") Mod_LoadModel: sprites/weapons/gungame1/cannondragon/flame_puff01.spr not found
+L 11/09/2025 - 23:10:10: (map "de_dust2") Mod_LoadModel: sprites/weapons/gungame1/cannondragon/flame_puff01.spr not found
+L 11/09/2025 - 23:10:21: (map "de_dust2") Mod_LoadModel: sprites/weapons/gungame1/cannondragon/flame_puff01.spr not found
+L 11/09/2025 - 23:10:32: (map "de_dust2") Mod_LoadModel: sprites/weapons/gungame1/cannondragon/flame_puff01.spr not found
+L 11/09/2025 - 23:10:43: (map "de_dust2") Mod_LoadModel: sprites/weapons/gungame1/cannondragon/flame_puff01.spr not found
+L 11/09/2025 - 23:10:53: (map "de_dust2") Mod_LoadModel: sprites/weapons/gungame1/cannondragon/flame_puff01.spr not found
+L 12/09/2025 - 20:52:49: (map "de_dust2") Mod_LoadModel: models/x/v_chainsaw_female.mdl not found
+L 12/09/2025 - 20:53:00: (map "de_dust2") Mod_LoadModel: models/x/v_chainsaw_female.mdl not found
+L 12/09/2025 - 20:53:11: (map "de_dust2") Mod_LoadModel: models/x/v_chainsaw_female.mdl not found
+L 12/09/2025 - 20:53:21: (map "de_dust2") Mod_LoadModel: models/x/v_chainsaw_female.mdl not found
+L 12/09/2025 - 20:53:32: (map "de_dust2") Mod_LoadModel: models/x/v_chainsaw_female.mdl not found
+L 14/09/2025 - 15:43:50: (map "de_dust2") SV_ModelIndex: SV_ModelIndex: model models/armasfemininas/v_m60craft_female.mdl not precached
+L 14/09/2025 - 15:45:01: (map "de_dust2") SV_ModelIndex: SV_ModelIndex: model models/armasfemininas/v_m60craft_female.mdl not precached
+L 14/09/2025 - 19:16:21: (map "de_dust2") Mod_LoadModel: models/armasfemininas/v_ bigeye_female.mdl not found
+L 14/09/2025 - 19:16:32: (map "de_dust2") Mod_LoadModel: models/armasfemininas/v_ bigeye_female.mdl not found
+L 14/09/2025 - 19:16:43: (map "de_dust2") Mod_LoadModel: models/armasfemininas/v_ bigeye_female.mdl not found
+L 14/09/2025 - 19:16:53: (map "de_dust2") Mod_LoadModel: models/armasfemininas/v_ bigeye_female.mdl not found
+L 14/09/2025 - 19:17:04: (map "de_dust2") Mod_LoadModel: models/armasfemininas/v_ bigeye_female.mdl not found
+L 14/09/2025 - 19:17:14: (map "de_dust2") Mod_LoadModel: models/armasfemininas/v_ bigeye_female.mdl not found
+L 14/09/2025 - 19:17:25: (map "de_dust2") Mod_LoadModel: models/armasfemininas/v_ bigeye_female.mdl not found
+L 15/09/2025 - 12:06:41: (map "cs_camouflage2") TEX_InitFromWad: couldn't open cs_common.wad
+
+L 15/09/2025 - 12:07:19: (map "cs_camouflage2") TEX_InitFromWad: couldn't open cs_common.wad
+
+L 15/09/2025 - 12:08:10: (map "cs_camouflage2") TEX_InitFromWad: couldn't open cs_common.wad
+
+L 15/09/2025 - 12:08:36: (map "cs_camouflage2") TEX_InitFromWad: couldn't open cs_common.wad
+
+L 20/09/2025 - 12:44:07: (map "gg_os_cpl_mill2") Mod_LoadModel: models/armasmasculinas/v_scocerball.mdl not found
+L 20/09/2025 - 12:57:13: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/v_hegrenade.mdl has been modified since starting the engine.  Consider running system diagnostics to check for faulty hardware.
+
+L 20/09/2025 - 13:23:15: (map "gg_taringacs_lego") Mod_LoadModel: models/armasmasculinas/v_soccerballl.mdl not found
+L 25/09/2025 - 19:47:15: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardianusp.mdl not found
+L 25/09/2025 - 19:47:25: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardianusp.mdl not found
+L 25/09/2025 - 19:47:36: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardianusp.mdl not found
+L 25/09/2025 - 19:47:46: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardianusp.mdl not found
+L 25/09/2025 - 19:47:57: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardianusp.mdl not found
+L 25/09/2025 - 19:48:07: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardianusp.mdl not found
+L 25/09/2025 - 19:48:18: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardianusp.mdl not found
+L 25/09/2025 - 19:48:28: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardianusp.mdl not found
+L 25/09/2025 - 19:48:39: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardianusp.mdl not found
+L 25/09/2025 - 19:48:49: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardianusp.mdl not found
+L 25/09/2025 - 19:49:00: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardian.mdl not found
+L 25/09/2025 - 19:49:10: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardian.mdl not found
+L 25/09/2025 - 19:49:21: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardian.mdl not found
+L 25/09/2025 - 19:49:32: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardian.mdl not found
+L 25/09/2025 - 19:49:42: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardian.mdl not found
+L 25/09/2025 - 19:49:53: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardian.mdl not found
+L 25/09/2025 - 19:50:03: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardian.mdl not found
+L 25/09/2025 - 19:50:14: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardian.mdl not found
+L 25/09/2025 - 19:50:24: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardian.mdl not found
+L 25/09/2025 - 19:50:35: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardian.mdl not found
+L 25/09/2025 - 19:50:45: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardian.mdl not found
+L 25/09/2025 - 19:50:56: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardian.mdl not found
+L 25/09/2025 - 19:51:06: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardian.mdl not found
+L 25/09/2025 - 19:51:17: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardian.mdl not found
+L 25/09/2025 - 19:51:27: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardian.mdl not found
+L 25/09/2025 - 19:51:38: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardian.mdl not found
+L 25/09/2025 - 19:51:48: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardian.mdl not found
+L 25/09/2025 - 19:51:59: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardian.mdl not found
+L 25/09/2025 - 19:52:09: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardian.mdl not found
+L 25/09/2025 - 19:52:20: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardian.mdl not found
+L 25/09/2025 - 19:52:30: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardian.mdl not found
+L 25/09/2025 - 19:52:41: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardian.mdl not found
+L 25/09/2025 - 19:52:51: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardian.mdl not found
+L 25/09/2025 - 19:53:02: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardian.mdl not found
+L 25/09/2025 - 19:53:12: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardian.mdl not found
+L 25/09/2025 - 19:53:23: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardian.mdl not found
+L 25/09/2025 - 19:53:33: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardian.mdl not found
+L 25/09/2025 - 19:53:44: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardian.mdl not found
+L 25/09/2025 - 19:53:54: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardian.mdl not found
+L 25/09/2025 - 19:54:05: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardian.mdl not found
+L 25/09/2025 - 19:54:15: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardian.mdl not found
+L 25/09/2025 - 19:54:26: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardian.mdl not found
+L 25/09/2025 - 19:54:37: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardian.mdl not found
+L 25/09/2025 - 19:54:47: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardian.mdl not found
+L 25/09/2025 - 19:54:58: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardian.mdl not found
+L 25/09/2025 - 19:55:08: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_augguardian.mdl not found
+L 27/09/2025 - 00:50:14: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_bluecar.mdl not found
+L 27/09/2025 - 00:50:25: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_bluecar.mdl not found
+L 27/09/2025 - 00:50:35: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_bluecar.mdl not found
+L 27/09/2025 - 00:50:46: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_bluecar.mdl not found
+L 27/09/2025 - 00:50:56: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_bluecar.mdl not found
+L 27/09/2025 - 00:51:07: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_bluecar.mdl not found
+L 27/09/2025 - 00:51:17: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_bluecar.mdl not found
+L 27/09/2025 - 00:51:28: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_bluecar.mdl not found
+L 27/09/2025 - 00:51:38: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_bluecar.mdl not found
+L 27/09/2025 - 00:51:49: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_bluecar.mdl not found
+L 27/09/2025 - 00:51:59: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_bluecar.mdl not found
+L 27/09/2025 - 00:52:10: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_bluecar.mdl not found
+L 27/09/2025 - 00:52:20: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_bluecar.mdl not found
+L 27/09/2025 - 00:52:31: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_bluecar.mdl not found
+L 27/09/2025 - 00:52:41: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_bluecar.mdl not found
+L 27/09/2025 - 00:52:52: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_bluecar.mdl not found
+L 27/09/2025 - 00:53:02: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_bluecar.mdl not found
+L 27/09/2025 - 00:53:13: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_bluecar.mdl not found
+L 27/09/2025 - 00:53:23: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_bluecar.mdl not found
+L 27/09/2025 - 00:53:34: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_bluecar.mdl not found
+L 27/09/2025 - 00:53:44: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_bluecar.mdl not found
+L 27/09/2025 - 00:53:55: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_bluecar.mdl not found
+L 27/09/2025 - 00:54:06: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_bluecar.mdl not found
+L 27/09/2025 - 00:54:16: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_bluecar.mdl not found
+L 27/09/2025 - 00:54:27: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_bluecar.mdl not found
+L 27/09/2025 - 01:52:31: (map "gg_iceworld_cso") IndexOfEdict: bad entity
+L 27/09/2025 - 02:08:57: (map "gg_deagle5_4hm") Mod_LoadBrushModel_internal: maps/gg_deagle5_4hm.bsp has wrong version number (1347633750 should be 30)
+L 27/09/2025 - 12:25:20: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_doggun.mdl not found
+L 27/09/2025 - 12:25:30: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_doggun.mdl not found
+L 27/09/2025 - 12:25:41: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_doggun.mdl not found
+L 27/09/2025 - 12:25:51: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_doggun.mdl not found
+L 27/09/2025 - 12:26:02: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_doggun.mdl not found
+L 27/09/2025 - 12:26:12: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_doggun.mdl not found
+L 27/09/2025 - 12:26:22: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_doggun.mdl not found
+L 27/09/2025 - 12:26:33: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_doggun.mdl not found
+L 27/09/2025 - 12:26:43: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_doggun.mdl not found
+L 27/09/2025 - 12:26:54: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_doggun.mdl not found
+L 27/09/2025 - 12:27:04: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_doggun.mdl not found
+L 27/09/2025 - 12:27:15: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_doggun.mdl not found
+L 27/09/2025 - 12:27:25: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_doggun.mdl not found
+L 27/09/2025 - 12:27:36: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_doggun.mdl not found
+L 27/09/2025 - 12:27:46: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_doggun.mdl not found
+L 27/09/2025 - 12:27:57: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_doggun.mdl not found
+L 27/09/2025 - 12:28:07: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_doggun.mdl not found
+L 27/09/2025 - 12:28:18: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_doggun.mdl not found
+L 27/09/2025 - 12:28:28: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_doggun.mdl not found
+L 27/09/2025 - 12:58:22: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/v_catugn.mdl not found
+L 27/09/2025 - 12:58:32: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/v_catugn.mdl not found
+L 27/09/2025 - 12:58:43: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/v_catugn.mdl not found
+L 27/09/2025 - 12:58:53: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/v_catugn.mdl not found
+L 27/09/2025 - 12:59:04: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/v_catugn.mdl not found
+L 27/09/2025 - 12:59:14: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/v_catugn.mdl not found
+L 27/09/2025 - 12:59:25: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/v_catugn.mdl not found
+L 27/09/2025 - 15:10:26: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_qbz95b.mdl not found
+L 27/09/2025 - 15:10:36: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_qbz95b.mdl not found
+L 27/09/2025 - 15:10:47: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_qbz95b.mdl not found
+L 27/09/2025 - 15:10:57: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_qbz95b.mdl not found
+L 27/09/2025 - 15:11:08: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_qbz95b.mdl not found
+L 27/09/2025 - 15:11:18: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_qbz95b.mdl not found
+L 27/09/2025 - 15:11:29: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_qbz95b.mdl not found
+L 27/09/2025 - 15:11:39: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_qbz95b.mdl not found
+L 27/09/2025 - 15:11:50: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_qbz95b.mdl not found
+L 27/09/2025 - 15:12:00: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_qbz95b.mdl not found
+L 27/09/2025 - 15:12:10: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_qbz95b.mdl not found
+L 27/09/2025 - 15:12:21: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_qbz95b.mdl not found
+L 27/09/2025 - 15:12:31: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_qbz95b.mdl not found
+L 27/09/2025 - 15:12:42: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_qbz95b.mdl not found
+L 27/09/2025 - 15:12:52: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_qbz95b.mdl not found
+L 27/09/2025 - 15:56:13: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/v_turbulent5.mdl not found
+L 27/09/2025 - 15:56:24: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/v_turbulent5.mdl not found
+L 27/09/2025 - 15:56:34: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/v_turbulent5.mdl not found
+L 27/09/2025 - 15:56:45: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/v_turbulent5.mdl not found
+L 27/09/2025 - 15:56:55: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 15:57:06: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 15:57:16: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 15:57:27: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 15:57:38: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 15:57:48: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 15:57:59: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 15:58:09: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 15:58:20: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 15:58:30: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 15:58:41: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 15:58:51: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 15:59:02: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 15:59:12: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 15:59:23: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 15:59:34: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 15:59:44: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 15:59:55: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:00:05: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:00:16: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:00:26: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:00:37: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:00:47: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:00:58: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:01:08: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:01:19: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:01:29: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:01:40: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:01:51: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:02:01: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:02:12: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:02:22: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:02:33: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:02:43: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:02:54: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:03:04: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:03:15: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:03:25: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:03:36: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:03:47: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:03:57: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:04:08: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:04:18: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:04:29: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:04:39: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:04:50: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:05:00: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:05:11: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:05:22: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:05:32: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:05:43: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:05:53: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:06:04: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:06:14: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:06:25: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:06:35: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:06:46: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:06:56: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:07:07: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:07:17: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:07:28: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:07:38: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:07:49: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 16:08:00: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/p_turbulent5.mdl not found
+L 27/09/2025 - 20:41:56: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/v_desperado.mdl not found
+L 27/09/2025 - 20:42:07: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/v_desperado.mdl not found
+L 27/09/2025 - 20:42:17: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/v_desperado.mdl not found
+L 27/09/2025 - 20:42:28: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/v_desperado.mdl not found
+L 27/09/2025 - 20:42:39: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/v_desperado.mdl not found
+L 27/09/2025 - 20:42:49: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/v_desperado.mdl not found
+L 27/09/2025 - 20:43:00: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/v_desperado.mdl not found
+L 29/09/2025 - 16:25:26: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/v_heartbomb.mdl not found
+L 29/09/2025 - 16:25:36: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/v_heartbomb.mdl not found
+L 29/09/2025 - 16:25:47: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/v_heartbomb.mdl not found
+L 29/09/2025 - 16:25:57: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/v_heartbomb.mdl not found
+L 29/09/2025 - 16:26:08: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/v_heartbomb.mdl not found
+L 29/09/2025 - 16:26:18: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/v_heartbomb.mdl not found
+L 29/09/2025 - 16:26:29: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/v_heartbomb.mdl not found
+L 29/09/2025 - 16:26:39: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/v_heartbomb.mdl not found
+L 29/09/2025 - 16:26:50: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/v_heartbomb.mdl not found
+L 29/09/2025 - 16:27:00: (map "de_dust2") Mod_LoadModel: models/armasmasculinas/v_heartbomb.mdl not found
+L 29/09/2025 - 16:41:23: (map "de_dust2") SV_ModelIndex: SV_ModelIndex: model models/armasmasculinas/p_stormgiant.mdl not precached
+L 29/09/2025 - 18:53:35: (map "de_dust2") SV_ModelIndex: SV_ModelIndex: model models/armasmasculinas/p_stormgiant.mdl not precached
+L 29/09/2025 - 18:54:38: (map "de_dust2") SV_ModelIndex: SV_ModelIndex: model models/armasmasculinas/p_stormgiant.mdl not precached
+L 29/09/2025 - 20:34:55: (map "de_dust2") Mod_LoadModel: models/xrshell.mdl has been modified since starting the engine.  Consider running system diagnostics to check for faulty hardware.
+
+L 01/10/2025 - 23:20:56: (map "de_dust2") Mod_LoadModel: models/weapons/gungame1/v_uts15_6.mdl not found
+L 01/10/2025 - 23:21:06: (map "de_dust2") Mod_LoadModel: models/weapons/gungame1/v_uts15_6.mdl not found
+L 01/10/2025 - 23:21:17: (map "de_dust2") Mod_LoadModel: models/weapons/gungame1/v_uts15_6.mdl not found
+L 01/10/2025 - 23:21:27: (map "de_dust2") Mod_LoadModel: models/weapons/gungame1/v_uts15_6.mdl not found
+L 01/10/2025 - 23:21:37: (map "de_dust2") Mod_LoadModel: models/weapons/gungame1/v_uts15_6.mdl not found
+L 01/10/2025 - 23:21:48: (map "de_dust2") Mod_LoadModel: models/weapons/gungame1/v_uts15_6.mdl not found
+L 01/10/2025 - 23:21:58: (map "de_dust2") Mod_LoadModel: models/weapons/gungame1/v_uts15_6.mdl not found
+L 01/10/2025 - 23:22:09: (map "de_dust2") Mod_LoadModel: models/gungame1/v_uts15_6.mdl not found
+L 01/10/2025 - 23:22:19: (map "de_dust2") Mod_LoadModel: models/gungame1/v_uts15_6.mdl not found
+L 01/10/2025 - 23:22:30: (map "de_dust2") Mod_LoadModel: models/gungame1/v_uts15_6.mdl not found
+L 01/10/2025 - 23:22:40: (map "de_dust2") Mod_LoadModel: models/gungame1/v_uts15_6.mdl not found
+L 02/10/2025 - 20:15:10: (map "de_dust") Mod_LoadModel: sprites/ef_starchasersr_star.spr not found
+L 02/10/2025 - 20:15:21: (map "de_dust2") Mod_LoadModel: sprites/ef_starchasersr_star.spr not found
+L 02/10/2025 - 20:15:31: (map "de_dust2") Mod_LoadModel: sprites/ef_starchasersr_star.spr not found

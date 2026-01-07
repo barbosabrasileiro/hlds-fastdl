@@ -1,0 +1,5 @@
+91.121.97.105:27015 - gungame
+
+91.121.97.105:27016 - zombie plague
+
+www.cs-amaterasu.fr

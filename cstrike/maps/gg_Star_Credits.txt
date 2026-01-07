@@ -1,0 +1,48 @@
+
+This map has been developed for GunGame/Deathmatch and for a very fast game play.
+The game dynamics of "Unreal Tournament" has strongly influenced its design.
+
+
+Trumps:
+
+1. Fastest game play - through springboards and teleport
+
+2. Wide-angled corners - campers have a hard time here!
+
+3. Healing station in map center - every 5 secs 
+
+4. For 32 players – map is big enough
+
+5. Unusual map design for CS  – since very few maps are really suitable for DM 
+
+It would be very nice if you could add this map to your server map pool and send me the server IP per email or PM.
+Thanks a lot!
+
+Yours  Klau3
+
+########################################################################
+
+
+Map designer:
+
+Klau3
+
+
+Most textures by:
+
+Sjoerd "Hourences" De Jong
+
+
+########################################################################
+
+Email: trixa2000-schrott@yahoo.de
+
+########################################################################
+
+My special thanks go to:
+
+Manuel alias "dark85", Patrick alias "RedNex", Thorn alias "Bawoney", Madeleine alias "Blacky"
+
+########################################################################
+
+PS.: I am also playing with the idea to convert this map for the Half-Life Mod „The Specialists“

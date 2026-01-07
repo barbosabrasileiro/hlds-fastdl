@@ -1,0 +1,89 @@
+L 01/07/2026 - 11:01:59: Log file started (file "logs/L0107000.log") (game "cstrike") (version "48/1.1.2.7/Stdio/3378")
+L 01/07/2026 - 11:01:59: [META] Recognized game 'cstrike'; using dllfile 'cs.so'
+L 01/07/2026 - 11:01:59: [META] Game DLL for 'Counter-Strike 1.6' loaded successfully
+L 01/07/2026 - 11:01:59: [META] ini: Begin reading plugins list: /home/josuel/Público/rehlds_full_linux (amxx 1.1)/cstrike/addons/metamod/plugins.ini
+L 01/07/2026 - 11:01:59: [META] ini: Read plugin config for: <reunion_mm_i386.so>
+L 01/07/2026 - 11:01:59: [META] ini: Read plugin config for: <revoice_mm_i386.so>
+L 01/07/2026 - 11:01:59: [META] ini: Read plugin config for: <resemiclip_mm_i386.so>
+L 01/07/2026 - 11:01:59: [META] ini: Read plugin config for: <resrdetector_mm_i386.so>
+L 01/07/2026 - 11:01:59: [META] ini: Read plugin config for: <whblocker_mm_i386.so>
+L 01/07/2026 - 11:01:59: [META] ini: Read plugin config for: <hitbox_fix_mm_i386.so>
+L 01/07/2026 - 11:01:59: [META] ini: Read plugin config for: <amxmodx_mm_i386.so>
+L 01/07/2026 - 11:01:59: [META] ini: Read plugin config for: <yapb.so>
+L 01/07/2026 - 11:01:59: [META] ini: Read plugin config for: <unprecacher_i386.so>
+L 01/07/2026 - 11:01:59: [META] ini: Finished reading plugins list: /home/josuel/Público/rehlds_full_linux (amxx 1.1)/cstrike/addons/metamod/plugins.ini; Found 9 plugins to load
+L 01/07/2026 - 11:01:59: [META] dll: Loading plugins...
+L 01/07/2026 - 11:01:59: [REUNION]: Config line parsing error 'LogAttacks' for reason 4 on line '78'
+L 01/07/2026 - 11:01:59: [REUNION]: Config line parsing error 'AllowSplitPackets' for reason 4 on line '79'
+L 01/07/2026 - 11:01:59: [REUNION]: Config line parsing error 'IPClientsLimit' for reason 4 on line '80'
+L 01/07/2026 - 11:01:59: [META] dll: Loaded plugin 'Reunion': Reunion v0.2.0.34 Aug 12 2025, The Legion
+L 01/07/2026 - 11:01:59: [META] dll: Loaded plugin 'Revoice': Revoice v0.1.0.34 2020-03-03, The Legion
+L 01/07/2026 - 11:01:59: [META] dll: Loaded plugin 'ReSemiclip': ReSemiclip v2.3.9 13/02/17, s1lent & Adidasman
+L 01/07/2026 - 11:01:59: [META] dll: Loaded plugin 'ReSRDetector': ReSRDetector v0.1.0 2017-01-14, ReHLDS Team
+L 01/07/2026 - 11:01:59: [META] dll: Loaded plugin 'WHBlocker': WHBlocker v1.5.697 2020-05-02, s1lent
+L 01/07/2026 - 11:01:59: [META] dll: Loaded plugin 'HitBox Fix': HitBox Fix v1.1.4 Aug 28 2023, Garey
+L 01/07/2026 - 11:01:59: [META] dll: Loaded plugin 'MySQL': MySQL v1.10.0.5467 Apr  5 2022, AMX Mod X Dev Team
+L 01/07/2026 - 11:01:59: [META] dll: Rebuilding callbacks...
+L 01/07/2026 - 11:01:59: [META] dll: Callbacks rebuilded.
+L 01/07/2026 - 11:01:59: [META] dll: Loaded plugin 'SQLite': SQLite v1.10.0.5467 Apr  5 2022, AMX Mod X Dev Team
+L 01/07/2026 - 11:01:59: [META] dll: Rebuilding callbacks...
+L 01/07/2026 - 11:01:59: [META] dll: Callbacks rebuilded.
+L 01/07/2026 - 11:01:59: [META] dll: Loaded plugin 'ReAPI': ReAPI v5.26.0.338-dev Mar 28 2025, Asmodai & s1lent
+L 01/07/2026 - 11:01:59: [META] dll: Rebuilding callbacks...
+L 01/07/2026 - 11:01:59: [META] dll: Callbacks rebuilded.
+L 01/07/2026 - 11:01:59: [META] dll: Loaded plugin 'Fun': Fun v1.10.0.5467 Apr  5 2022, AMX Mod X Dev Team
+L 01/07/2026 - 11:01:59: [META] dll: Rebuilding callbacks...
+L 01/07/2026 - 11:01:59: [META] dll: Callbacks rebuilded.
+L 01/07/2026 - 11:01:59: [META] dll: Loaded plugin 'Engine': Engine v1.10.0.5467 Apr  5 2022, AMX Mod X Dev Team
+L 01/07/2026 - 11:01:59: [META] dll: Rebuilding callbacks...
+L 01/07/2026 - 11:01:59: [META] dll: Callbacks rebuilded.
+L 01/07/2026 - 11:01:59: [META] dll: Loaded plugin 'FakeMeta': FakeMeta v1.10.0.5467 Apr  5 2022, AMX Mod X Dev Team
+L 01/07/2026 - 11:01:59: [META] dll: Rebuilding callbacks...
+L 01/07/2026 - 11:01:59: [META] dll: Callbacks rebuilded.
+L 01/07/2026 - 11:01:59: [META] dll: Loaded plugin 'GeoIP': GeoIP v1.10.0.5467 Apr  5 2022, AMX Mod X Dev Team
+L 01/07/2026 - 11:01:59: [META] dll: Rebuilding callbacks...
+L 01/07/2026 - 11:01:59: [META] dll: Callbacks rebuilded.
+L 01/07/2026 - 11:01:59: [META] dll: Loaded plugin 'CStrike': CStrike v1.10.0.5467 Apr  5 2022, AMX Mod X Dev Team
+L 01/07/2026 - 11:01:59: [META] dll: Rebuilding callbacks...
+L 01/07/2026 - 11:01:59: [META] dll: Callbacks rebuilded.
+L 01/07/2026 - 11:01:59: [META] dll: Loaded plugin 'CSX': CSX v1.10.0.5467 Apr  5 2022, AMX Mod X Dev Team
+L 01/07/2026 - 11:01:59: [META] dll: Rebuilding callbacks...
+L 01/07/2026 - 11:01:59: [META] dll: Callbacks rebuilded.
+L 01/07/2026 - 11:01:59: [META] dll: Loaded plugin 'Ham Sandwich': Ham Sandwich v1.10.0.5467 Apr  5 2022, AMX Mod X Dev Team
+L 01/07/2026 - 11:01:59: [META] dll: Rebuilding callbacks...
+L 01/07/2026 - 11:01:59: [META] dll: Callbacks rebuilded.
+L 01/07/2026 - 11:01:59: [META] dll: Loaded plugin 'ReAimDetector': ReAimDetector v0.2.2 2018-02-06, ReHLDS Team
+L 01/07/2026 - 11:01:59: [META] dll: Rebuilding callbacks...
+L 01/07/2026 - 11:01:59: [META] dll: Callbacks rebuilded.
+L 01/07/2026 - 11:01:59: [META] dll: Loaded plugin 'AMX Mod X': AMX Mod X v1.10.0.5467 Apr  5 2022, AMX Mod X Dev Team
+L 01/07/2026 - 11:01:59: [META] ERROR: dll: Failed query plugin '<yapb.so>'; Couldn't open file 'addons/yapb/bin/yapb.so': addons/yapb/bin/yapb.so: cannot open shared object file: No such file or directory
+L 01/07/2026 - 11:01:59: [META] ERROR: dll: Skipping plugin '<yapb.so>'; couldn't query
+L 01/07/2026 - 11:01:59: [META] ERROR: dll: Couldn't close plugin file 'yapb.so': invalid handle
+L 01/07/2026 - 11:01:59: [META] ERROR: dll: Failed to load plugin 'yapb.so'
+L 01/07/2026 - 11:01:59: [META] dll: Loaded plugin 'Ultimate Unprecacher': Ultimate Unprecacher vBeta 2.5.3 2016/05/18, Alik Aslanyan <cplusplus256@gmail.com>
+L 01/07/2026 - 11:01:59: [META] ERROR: dll: Not loading plugin 'MySQL'; already loaded (status=running)
+L 01/07/2026 - 11:01:59: [META] ERROR: dll: Failed to load plugin 'mysql_amxx_i386.so'
+L 01/07/2026 - 11:01:59: [META] ERROR: dll: Not loading plugin 'SQLite'; already loaded (status=running)
+L 01/07/2026 - 11:01:59: [META] ERROR: dll: Failed to load plugin 'sqlite_amxx_i386.so'
+L 01/07/2026 - 11:01:59: [META] ERROR: dll: Not loading plugin 'ReAPI'; already loaded (status=running)
+L 01/07/2026 - 11:01:59: [META] ERROR: dll: Failed to load plugin 'reapi_amxx_i386.so'
+L 01/07/2026 - 11:01:59: [META] ERROR: dll: Not loading plugin 'Fun'; already loaded (status=running)
+L 01/07/2026 - 11:01:59: [META] ERROR: dll: Failed to load plugin 'fun_amxx_i386.so'
+L 01/07/2026 - 11:01:59: [META] ERROR: dll: Not loading plugin 'Engine'; already loaded (status=running)
+L 01/07/2026 - 11:01:59: [META] ERROR: dll: Failed to load plugin 'engine_amxx_i386.so'
+L 01/07/2026 - 11:01:59: [META] ERROR: dll: Not loading plugin 'FakeMeta'; already loaded (status=running)
+L 01/07/2026 - 11:01:59: [META] ERROR: dll: Failed to load plugin 'fakemeta_amxx_i386.so'
+L 01/07/2026 - 11:01:59: [META] ERROR: dll: Not loading plugin 'GeoIP'; already loaded (status=running)
+L 01/07/2026 - 11:01:59: [META] ERROR: dll: Failed to load plugin 'geoip_amxx_i386.so'
+L 01/07/2026 - 11:01:59: [META] ERROR: dll: Not loading plugin 'CStrike'; already loaded (status=running)
+L 01/07/2026 - 11:01:59: [META] ERROR: dll: Failed to load plugin 'cstrike_amxx_i386.so'
+L 01/07/2026 - 11:01:59: [META] ERROR: dll: Not loading plugin 'CSX'; already loaded (status=running)
+L 01/07/2026 - 11:01:59: [META] ERROR: dll: Failed to load plugin 'csx_amxx_i386.so'
+L 01/07/2026 - 11:01:59: [META] ERROR: dll: Not loading plugin 'Ham Sandwich'; already loaded (status=running)
+L 01/07/2026 - 11:01:59: [META] ERROR: dll: Failed to load plugin 'hamsandwich_amxx_i386.so'
+L 01/07/2026 - 11:01:59: [META] ERROR: dll: Not loading plugin 'ReAimDetector'; already loaded (status=running)
+L 01/07/2026 - 11:01:59: [META] ERROR: dll: Failed to load plugin 'reaimdetector_amxx_i386.so'
+L 01/07/2026 - 11:01:59: [META] dll: Finished loading 8 plugins
+L 01/07/2026 - 11:01:59: [META] dll: Rebuilding callbacks...
+L 01/07/2026 - 11:01:59: [META] dll: Callbacks rebuilded.
+L 01/07/2026 - 11:01:59: Log file closed

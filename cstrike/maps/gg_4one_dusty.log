@@ -1,0 +1,207 @@
+hlcsg v2.5.3 rel (May  2 2001)
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (zoner@gearboxsoftware.com)
+-----  BEGIN  hlcsg -----
+Command line: C:\PROGRA~1\VALVEH~1\tools\hlcsg.exe "c:\documents and settings\zé nuno\ambiente de trabalho\awp4one\awp4one"
+
+-= Current hlcsg Settings =-
+Name                 |  Setting  |  Default
+---------------------|-----------|-------------------------
+threads               [       1 ] [  Varies ]
+verbose               [     off ] [     off ]
+log                   [      on ] [      on ]
+developer             [       0 ] [       0 ]
+chart                 [     off ] [     off ]
+estimate              [     off ] [     off ]
+max texture memory    [ 4194304 ] [ 4194304 ]
+priority              [  Normal ] [  Normal ]
+
+noclip                [     off ] [     off ]
+onlyents              [     off ] [     off ]
+wadtextures           [      on ] [      on ]
+skyclip               [      on ] [      on ]
+hullfile              [    None ] [    None ]
+min surface area      [   0.500 ] [   0.500 ]
+brush union threshold [   0.000 ] [   0.000 ]
+
+Wadinclude list :
+[zhlt.wad]
+
+
+entering c:\documents and settings\zé nuno\ambiente de trabalho\awp4one\awp4one.map
+CreateBrush:
+ (0.57 seconds)
+SetModelCenters:
+ (0.00 seconds)
+CSGBrush:
+ (0.92 seconds)
+Embedding textures from WAD File [\programas\valve hammer editor\tools\zhlt.wad] into BSP
+Using WAD File: \programas\valve hammer editor\tools\zeditor.wad
+Using WAD File: \documents and settings\zé nuno\os meus documentos\wads\halflife.wad
+Using WAD File: \documents and settings\zé nuno\os meus documentos\wads\cstrike.wad
+Using WAD File: \documents and settings\zé nuno\os meus documentos\wads\decals.wad
+Using WAD File: \documents and settings\zé nuno\os meus documentos\wads\cs_dust.wad
+Using WAD File: \documents and settings\zé nuno\os meus documentos\wads\de_aztec.wad
+Warning:  ::: Larger than expected texture (348972 bytes)  Wad:wad[\documents and settings\zé nuno\os meus documentos\wads\de_aztec.wad] Texture[3521:SPECIAL_THANKS]
+
+Warning:  ::: Larger than expected texture (348972 bytes)  Wad:wad[\documents and settings\zé nuno\os meus documentos\wads\de_aztec.wad] Texture[3522:THANKS]
+
+Using WAD File: \documents and settings\zé nuno\os meus documentos\wads\cs_assault.wad
+Using WAD File: \documents and settings\zé nuno\os meus documentos\wads\chateau.wad
+Using WAD File: \documents and settings\zé nuno\os meus documentos\wads\de_piranesi.wad
+Using WAD File: \documents and settings\zé nuno\os meus documentos\wads\cs_cbble.wad
+added 2 additional animating textures.
+Texture usage is at 0.28 mb (of 4.00 mb MAX)
+1.65 seconds elapsed
+
+-----   END   hlcsg -----
+
+
+
+hlbsp v2.5.3 rel (May  2 2001)
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (zoner@gearboxsoftware.com)
+-----  BEGIN  hlbsp -----
+Command line: C:\PROGRA~1\VALVEH~1\tools\hlbsp.exe "c:\documents and settings\zé nuno\ambiente de trabalho\awp4one\awp4one"
+
+-= Current hlbsp Settings =-
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       1 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+priority            [  Normal ] [  Normal ]
+
+noclip              [     off ] [     off ]
+nofill              [     off ] [     off ]
+notjunc             [     off ] [     off ]
+subdivide size      [     240 ] [     240 ] (Min 64) (Max 240)
+max node size       [    1024 ] [    1024 ] (Min 64) (Max 4096)
+
+
+BSP generation successful, writing portal file 'c:\documents and settings\zé nuno\ambiente de trabalho\awp4one\awp4one.prt'
+1.19 seconds elapsed
+
+-----   END   hlbsp -----
+
+
+
+hlvis v2.5.3 rel (May  2 2001)
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (zoner@gearboxsoftware.com)
+-----  BEGIN  hlvis -----
+Command line: C:\PROGRA~1\VALVEH~1\tools\hlvis.exe "c:\documents and settings\zé nuno\ambiente de trabalho\awp4one\awp4one"
+
+-= Current hlvis Settings =-
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       1 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+priority            [  Normal ] [  Normal ]
+
+fast vis            [     off ] [     off ]
+full vis            [     off ] [     off ]
+
+
+ 293 portalleafs
+ 988 numportals
+BasePortalVis:
+ (0.39 seconds)
+LeafThread:
+ (110.09 seconds)
+average leafs visible: 192
+g_visdatasize:10827  compressed from 10841
+110.52 seconds elapsed [1m 50s]
+
+-----   END   hlvis -----
+
+
+
+hlrad v2.5.3 rel (May  2 2001)
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (zoner@gearboxsoftware.com)
+-----  BEGIN  hlrad -----
+Command line: C:\PROGRA~1\VALVEH~1\tools\hlrad.exe "c:\documents and settings\zé nuno\ambiente de trabalho\awp4one\awp4one"
+
+-= Current hlrad Settings =-
+Name                | Setting             | Default
+--------------------|---------------------|-------------------------
+threads              [                 1 ] [            Varies ]
+verbose              [               off ] [               off ]
+log                  [                on ] [                on ]
+developer            [                 0 ] [                 0 ]
+chart                [               off ] [               off ]
+estimate             [               off ] [               off ]
+max texture memory   [           4194304 ] [           4194304 ]
+priority             [            Normal ] [            Normal ]
+
+vismatrix algorithm  [          Original ] [          Original ]
+oversampling (-extra)[               off ] [               off ]
+bounces              [                 1 ] [                 1 ]
+ambient light        [ 0.000 0.000 0.000 ] [ 0.000 0.000 0.000 ]
+maximum light        [           256.000 ] [           256.000 ]
+circus mode          [               off ] [               off ]
+
+smoothing threshold  [            50.000 ] [            50.000 ]
+direct threshold     [            25.000 ] [            25.000 ]
+direct light scale   [             2.000 ] [             2.000 ]
+coring threshold     [             1.000 ] [             1.000 ]
+patch interpolation  [                on ] [                on ]
+
+texscale             [                on ] [                on ]
+patch subdividing    [                on ] [                on ]
+chop value           [            64.000 ] [            64.000 ]
+texchop value        [            32.000 ] [            32.000 ]
+
+global fade          [             1.000 ] [             1.000 ]
+global falloff       [                 2 ] [                 2 ]
+global light scale   [             1.000 ] [             1.000 ]
+global gamma amount  [             0.500 ] [             0.500 ]
+global sky diffusion [             1.000 ] [             1.000 ]
+
+opaque entities      [                on ] [                on ]
+sky lighting fix     [                on ] [                on ]
+incremental          [               off ] [               off ]
+dump                 [               off ] [               off ]
+
+
+[Reading texlights from 'C:\PROGRA~1\VALVEH~1\tools\lights.rad']
+[1 texlights parsed from 'C:\PROGRA~1\VALVEH~1\tools\lights.rad']
+
+1506 faces
+Create Patches : 10148 base patches
+0 opaque faces
+125574 square feet [18082656.00 square inches]
+1 direct lights
+
+BuildFacelights:
+ (80.86 seconds)
+visibility matrix   :   6.1 megs
+BuildVisLeafs:
+ (23.22 seconds)
+MakeScales:
+ (15.14 seconds)
+SwapTransfers:
+ (8.61 seconds)
+Transfer Lists : 8372186 transfers
+       Indices : 4565092 bytes
+          Data : 33488744 bytes
+GatherLight:
+ (0.99 seconds)
+FinalLightFace:
+ (2.27 seconds)
+132.87 seconds elapsed [2m 12s]
+
+-----   END   hlrad -----
+
+
+
