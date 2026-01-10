@@ -1,0 +1,16 @@
+Snipers: India Nav72 CS:GO
+
+*************** 2019 *********************
+Original map: Johan Fasting
+Remake for CSGO: Navigator-72
+Port: DVDS
+Models & Textures: Valve Inc. - MutanCSMI
+******************************************
+
+Terrorists: Eliminate the Counter-Terrorist force to 
+win the round.
+
+Counter-Terrorist: Eliminate the terrorists to win the 
+round.
+
+(PRESS FIRE TO CONTINUE)                        

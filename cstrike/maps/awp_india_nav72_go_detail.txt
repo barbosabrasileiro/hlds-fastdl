@@ -1,0 +1,23 @@
+//Details for awp_india_nav72_go
+
+blend_blacktops		detail/awp_india_nav72_go/Ground	4.0	4.0
+blend_blacktop2		detail/awp_india_nav72_go/Ground	4.0	4.0
+concrete_ext_07		detail/awp_india_nav72_go/Concrete01	2.0	2.0
+dirt_ext_02b		detail/awp_india_nav72_go/Ground	2.0	2.0
+door1			detail/awp_india_nav72_go/Concrete01	2.0	2.0
+dust_wood_large		detail/awp_india_nav72_go/Wood		2.0	2.0
+plaster_bluewal		detail/awp_india_nav72_go/Concrete01	2.0	2.0
+residbwall03a		detail/awp_india_nav72_go/Concrete01	2.0	2.0
+residbwall03c_t		detail/awp_india_nav72_go/Concrete01	2.0	2.0
+residwall04		detail/awp_india_nav72_go/Concrete01	2.0	2.0
+residwall04_b		detail/awp_india_nav72_go/Concrete01	2.0	4.0
+residwall04a_bo		detail/awp_india_nav72_go/Concrete01	2.0	2.0
+residwall04dvds		detail/awp_india_nav72_go/Concrete01	2.0	2.0
+residwall05b		detail/awp_india_nav72_go/Rock		2.0	2.0
+sandtrim2a		detail/awp_india_nav72_go/Sandtrim	0.4	0.2
+stoneblock		detail/awp_india_nav72_go/Concrete01	2.0	2.0
+vostok_wood		detail/awp_india_nav72_go/Wood01	2.0	2.0
+wcratesd		detail/awp_india_nav72_go/Wood01	2.0	2.0
+wcratetp		detail/awp_india_nav72_go/Wood01	2.0	2.0
+window1			detail/awp_india_nav72_go/Concrete01	2.0	2.0
+

@@ -1,0 +1,20 @@
+//Details for fy_pool_day_go
+
+01		detail/fy_pool_day_go/Wall_Blue01	1.0	1.0
+02		detail/fy_pool_day_go/Wall_Red01	1.0	1.0
+03		detail/fy_pool_day_go/Floor1		1.0	1.0
+04		detail/fy_pool_day_go/Floor2		1.0	1.0
+05		detail/fy_pool_day_go/Floor2		1.0	1.0
+06		detail/fy_pool_day_go/Wall01		1.0	1.0
+07		detail/fy_pool_day_go/Locker		1.0	1.0
+09		detail/fy_pool_day_go/Floor3		1.0	1.0
+10		detail/fy_pool_day_go/Wall02		1.0	1.0
+11		detail/fy_pool_day_go/Wall02		1.0	1.0
+12		detail/fy_pool_day_go/Wall03		1.0	1.0
+14		detail/fy_pool_day_go/Door01		1.0	1.0
+15		detail/fy_pool_day_go/Door02		1.0	1.0
+18		detail/fy_pool_day_go/Roof01		2.0	2.0
+23		detail/fy_pool_day_go/Rules		1.0	1.0
+25		detail/fy_pool_day_go/Door03		1.0	1.0
+26		detail/fy_pool_day_go/Door04		2.0	2.0
+34		detail/fy_pool_day_go/Floor4		1.0	1.0

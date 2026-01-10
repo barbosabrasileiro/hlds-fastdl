@@ -1,0 +1,24 @@
+//[texture name]	[detail texture name]		[hscale]	[vscale]
+  hpe_plaster_lig	detail/cs2_mirage/hpe_plaster_lig	1		1
+  de_mwall09		detail/cs2_mirage/brick_ext_04	1		1  
+  cxdecwdd		detail/cs2_mirage/cxdecwdd	1		1
+  base_top_v1		detail/cs2_mirage/base_top_ver1	1		1  
+  base_top_v2		detail/cs2_mirage/base_top_ver1	1		1
+  de_mground08		detail/cs2_mirage/ground_tilec	1		1    
+  de_mground07		detail/cs2_mirage/brick_ver3	1		1
+  de_mwall_site		detail/cs2_mirage/brick_ext_04	1		1
+  cxmarblec     	detail/cs2_mirage/tilefloor02	1		1
+  cxbooksa     		detail/cs2_mirage/ground_tilef	1		1
+  de_mwall32    	detail/cs2_mirage/brick_ver1	1		1
+  de_mground04    	detail/cs2_mirage/marbel01	1		1
+  de_mground01		detail/cs2_mirage/mground01	1		1
+  de_mground02		detail/cs2_mirage/mground01	1		1
+  pi_floorst1g     	detail/cs2_mirage/tilefloor02	1		1
+  hpe_plaster_dec	detail/cs2_mirage/hpe_plaster_lig 1		1
+  plaster_brik01	detail/cs2_mirage/hpe_plaster_lig 1		1
+  plaster_brik02	detail/cs2_mirage/hpe_plaster_lig 1		1
+  goa6			detail/cs2_mirage/hpe_plaster_lig 1		1
+  goa10			detail/cs2_mirage/base_top_ver1	1		1
+  goa2			detail/cs2_mirage/base_top_ver1	1		1
+  gob4			detail/cs2_mirage/base_top_ver1	1		1
+  gob1			detail/cs2_mirage/base_top_ver1	1		1

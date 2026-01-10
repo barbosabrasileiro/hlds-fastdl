@@ -1,0 +1,13 @@
+GO: Mirage (Bomb/Defuse) by TheButch3r
+
+Original creators:
+- Michael "BubkeZ" Hull (original author)
+- Valve Corporation
+
+Counter-Terrorists: Prevent terrorists from bombing the nuclear arsenal. Terrorists can destroy the arsenal at 2 sites. Team members must defuse any bombs threatening the target areas.
+
+Terrorists: The terrorist carrying the C4 must destroy the nuclear arsenal.
+
+Other Notes: There are 2 bomb targets in the mission.
+
+(Press FIRE to continue)

@@ -1,0 +1,15 @@
+// overview description file for cso_mirage.bsp
+global
+{
+ZOOM 1.04
+ORIGIN -128.00 144.00 1024.00
+ROTATED 1
+}
+
+layer {
+
+IMAGE "overviews/de_mirage_cs2.tga"
+HEIGHT -1.0
+
+}
+ 

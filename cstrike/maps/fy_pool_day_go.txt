@@ -1,0 +1,18 @@
+Fight Yard: Pool
+
+***************** 2018 *******************
+Remake for Counter-Strike 1.6 by DVDS
+Original map by Squall
+Remake for CS:GO by leplubodeslapin
+Textures by Valve Inc. & leplubodeslapin
+Models by Valve Inc.
+******************************************
+
+Counter-Terrorists: Prevent the Terrorists 
+bombing the pool.
+
+Terrorists: Destroy the pool.
+
+Other Notes: Smoke'n All!
+
+(PRESS FIRE TO CONTINUE)             
