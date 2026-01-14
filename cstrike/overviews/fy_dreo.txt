@@ -1,0 +1,14 @@
+// overview description file for fy_dreo.bsp
+
+global 
+{
+	ZOOM	1.69
+	ORIGIN	-95.87	327.13	-100
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/fy_dreo.bmp"
+	HEIGHT	-100
+}

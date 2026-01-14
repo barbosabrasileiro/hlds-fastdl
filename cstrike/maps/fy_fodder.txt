@@ -1,0 +1,21 @@
+-------Map intro---------------------------
+Title: fy_fodder           Modification Half-Life : Cs 1.6 
+Made in Russia\Voronezh                        2009 year                            
+Map version                   (Final) 1.0
+===========================================    
+Developer                 Forlove™\A.Forlove
+E-mail                    AForlove@rambler.ru
+ICQ                       386-249-095 
+-------General information-----------------  
+Target for Counter-Terrorists:
+Resist opponents.
+
+Target for Terrorists:
+Resist opponents
+-------Play information--------------------
+Fy
+Max players              24 (12x12)
+Cooperative              yes
+===========================================
+(c) Copyright 2009 Alexander Mikhailov «Forlove(TM)\A.Forlove» 
+ 
