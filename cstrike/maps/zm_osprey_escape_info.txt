@@ -1,0 +1,52 @@
+=============================================================
+zm_osprey_esacape for Counter-Strike a Half-Life Modification
+Russia                                        August 31, 2009
+=============================================================
+
+------General Information--------------------------------
+
+Title            : zm_osprey_esacape
+Filename(s)      : zm_osprey_esacape.bsp & other
+Version          : Final
+Author           : Konstantin "Kr1ez^" Lemeshev
+E-mail           : Kr1ez@hotmail.com
+Home page        : www.Kr1ez.clan.su
+ICQ              : 2217650
+Description      : A zombie Biohazard escape map.
+Other maps       : zm_sunrise_escape
+Notes            : This is my 1st Biohazard escape map :)
+
+------Play Information-----------------------------------
+
+Deathmatch       : No
+Single Player    : No
+Cooperative      : Yes
+Mod              : Counter-Strike Biohazard
+Max # of players : 28
+
+------Map information-------------------------------------
+
+Base             : None
+Editor(s) used   : Valve Hammer Editor 3.5
+Other Programms  : ZHLT 2.5.3 CB, Wally 1.55b, Photoshop CS3, Terragen 0.9.43, Batch Compiler 3.1.2
+Prefabs used     : No
+Known Bugs       : No
+Build Time       : one month
+Compile Machine  : Athlon 2x2.61 Ghz, 2048 DDR2 RAM
+Compile Time     : 3m:10s
+Average R_Speeds : 600 wpoly
+
+------Copyright-Permissions------------------------------
+
+If you enjoy playing this level, please send me an e-mail
+
+Authors MAY NOT use this level as a base to build additional levels.
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!! If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!!
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+
+(c) Copyright 2009 Konstantin "Kr1ez^" Lemeshev
