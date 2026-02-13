@@ -1,0 +1,3 @@
+[en]
+
+RESET_SCORE = !tYour score has been reset successfully!y.
