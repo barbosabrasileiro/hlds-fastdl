@@ -1,0 +1,31 @@
+L 02/13/2026 - 16:39:21: Log file started (file "logs/L0213005.log") (game "cstrike") (version "48/1.1.2.7/Stdio/4002")
+L 02/13/2026 - 16:39:21: [META] Recognized game 'cstrike'; using dllfile 'cs.so'
+L 02/13/2026 - 16:39:21: [META] Game DLL for 'Counter-Strike 1.6' loaded successfully
+L 02/13/2026 - 16:39:21: [META] ini: Begin reading plugins list: /home/josuel/Público/rehlds_full_linux (amxx 1.1)/cstrike/addons/metamod/plugins.ini
+L 02/13/2026 - 16:39:21: [META] ini: Read plugin config for: <amxmodx_mm_i386.so>
+L 02/13/2026 - 16:39:21: [META] ini: Read plugin config for: <printcenterfix_mm_i386.so>
+L 02/13/2026 - 16:39:21: [META] ini: Read plugin config for: <reunion_mm_i386.so>
+L 02/13/2026 - 16:39:21: [META] ini: Read plugin config for: <resemiclip_mm_i386.so>
+L 02/13/2026 - 16:39:21: [META] ini: Read plugin config for: <rechecker_mm_i386.so>
+L 02/13/2026 - 16:39:21: [META] ini: Read plugin config for: <revoice_mm_i386.so>
+L 02/13/2026 - 16:39:21: [META] ini: Read plugin config for: <reauthcheck_mm_i386.so>
+L 02/13/2026 - 16:39:21: [META] ini: Read plugin config for: <hitbox_fix_mm_i386.so>
+L 02/13/2026 - 16:39:21: [META] ini: Finished reading plugins list: /home/josuel/Público/rehlds_full_linux (amxx 1.1)/cstrike/addons/metamod/plugins.ini; Found 8 plugins to load
+L 02/13/2026 - 16:39:21: [META] dll: Loading plugins...
+L 02/13/2026 - 16:39:21: [META] dll: Loaded plugin 'ReAimDetector': ReAimDetector v0.2.2 2018-02-06, ReHLDS Team
+L 02/13/2026 - 16:39:21: [META] dll: Rebuilding callbacks...
+L 02/13/2026 - 16:39:21: [META] dll: Callbacks rebuilded.
+L 02/13/2026 - 16:39:21: [META] dll: Loaded plugin 'AMX Mod X': AMX Mod X v1.10.0.5467 Apr  5 2022, AMX Mod X Dev Team
+L 02/13/2026 - 16:39:21: [META] dll: Loaded plugin 'Print Center Fix': Print Center Fix v2.0.1 Jan  6 2022, the_hunter
+L 02/13/2026 - 16:39:21: [META] dll: Loaded plugin 'Reunion': Reunion v0.2.0.25 Mar 27 2025, The Legion
+L 02/13/2026 - 16:39:21: [META] dll: Loaded plugin 'ReSemiclip': ReSemiclip v2.4.3 Oct 10 2023, s1lent
+L 02/13/2026 - 16:39:21: [META] dll: Loaded plugin 'Rechecker': Rechecker v2.7 Nov  9 2020, s1lent
+L 02/13/2026 - 16:39:21: [META] dll: Loaded plugin 'Revoice': Revoice v0.1.0.34 2020-03-03, The Legion
+L 02/13/2026 - 16:39:21: [META] dll: Loaded plugin 'ReAuthCheck': ReAuthCheck v0.1.6 2017-03-08, Adidasman
+L 02/13/2026 - 16:39:21: [META] dll: Loaded plugin 'HitBox Fix': HitBox Fix v2.0.3 Dec 10 2024, Garey
+L 02/13/2026 - 16:39:21: [META] ERROR: dll: Not loading plugin 'ReAimDetector'; already loaded (status=running)
+L 02/13/2026 - 16:39:21: [META] ERROR: dll: Failed to load plugin 'reaimdetector_amxx_i386.so'
+L 02/13/2026 - 16:39:21: [META] dll: Finished loading 8 plugins
+L 02/13/2026 - 16:39:21: [META] dll: Rebuilding callbacks...
+L 02/13/2026 - 16:39:21: [META] dll: Callbacks rebuilded.
+L 02/13/2026 - 16:39:21: Log file closed
