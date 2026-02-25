@@ -21,12 +21,12 @@ Scheme
 	Colors
 	{
 		// background colors
-		"WindowBG"			"0 0 0 150"		// background color of text edit panes (chat, text entries, etc.)
+		"WindowBG"			"0 0 0 200"		// background color of text edit panes (chat, text entries, etc.)
 		"ControlBG"			"0 0 0 0"		// background color of controls
 
 		"BorderBright"			"28 207 61 128"
 
-		"TutorTextClassDefault"	"255 255 255 255"
+		"TutorTextClassDefault"	"28 207 61 255"
 		"TutorTextClass2"	"255 38 38 255"			// friend death
 		"TutorTextClass4"	"38 149 253 255"		// enemy death
 		"TutorTextClass8"	"255 227 38 255"		// scenario
@@ -69,7 +69,7 @@ Scheme
 			"ArmedFgColor"		"BrightBaseText"
 			"ArmedBgColor"		"SelectionBG"
 			"DividerColor"		"BorderDark"
-			"TextInset"			"50"
+			"TextInset"			"6"
 		}
 
 		MenuButton	  // the little arrow on the side of boxes that triggers drop down menus
@@ -159,9 +159,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Fatsans"
-				"tall"		"18"
-				"weight"	"650"
+				"name"		"Tahoma"
+				"tall"		"14"
+				"weight"	"500"
 			}
 		}
 	}
@@ -195,7 +195,7 @@ Scheme
 
 			Top
 			{
-				"0"
+				"1"
 				{
 					"color" "BorderDark"
 					"offset" "0 0"
