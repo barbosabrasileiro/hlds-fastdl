@@ -1,0 +1,14 @@
+// overview description file for ze_labs_076R.bsp
+
+global 
+{
+	ZOOM	1.37
+	ORIGIN	164.00 -80.00 1263.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/ze_labs_076R.bmp"
+	HEIGHT	2529.00
+}

@@ -1,0 +1,16 @@
+ze_labs_076R - Zombie Escape
+map created by ded_OK#
+
+reconfigured by Arn1_95
+Email: (oleg.semchuk95@gmail.com)
+Steam: http://steamcommunity.com/id/arntomk/
+Discord: Arn1.95(OLEG)#0262
+
+In the laboratory 076, which conducted secret experiments with viruses leaked virus that turns people into zombies. 
+Your task is to evacuate the laboratory and to avoid contamination at all costs!
+
+----------------------------------------
+//Detail Textures
+To enable detail textures, enter in the console:
+r_detailtextures "1"
+----------------------------------------
