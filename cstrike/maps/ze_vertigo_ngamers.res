@@ -1,0 +1,12 @@
+gfx/env/52H03bk.tga
+gfx/env/52H03dn.tga
+gfx/env/52H03ft.tga
+gfx/env/52H03lf.tga
+gfx/env/52H03rt.tga
+gfx/env/52H03up.tga
+models/leuchtpfosten_01.mdl
+models/rope1.mdl
+models/rope2.mdl
+models/tails.mdl
+sound/nitro1.wav
+sound/vertigofinal.wav

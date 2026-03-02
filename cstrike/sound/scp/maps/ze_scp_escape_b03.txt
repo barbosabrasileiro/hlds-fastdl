@@ -1,0 +1,19 @@
+SCP Escape map - Zombie Escape by p1487-
+(https://gamebanana.com/members/1696053)
+================================
+Change Log:
+-------
+0.2beta
+[BugFix] Fixed bugged timing doors
+[BugFix] Fixed elevator issue
+[Improvement] Reworked game_text at timing door
+-------
+0.3beta
+[Improvement] Removed last elevator
+[Rework] Reworked spawns
+================================
+
+Good Luck and Have Fun!
+
+================================
+Map Created in August 2020
