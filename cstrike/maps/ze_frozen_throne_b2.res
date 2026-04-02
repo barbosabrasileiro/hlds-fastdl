@@ -1,0 +1,11 @@
+models/ze_frozen_throne/frozen_mybb.mdl
+models/ze_frozen_throne/frozen_oberon.mdl
+models/ze_frozen_throne/frozen_tree.mdl
+sound/ze_frozen_throne/frozen_ambience.wav
+sound/ze_frozen_throne/frozen_battle.wav
+sound/ze_frozen_throne/frozen_defeat.wav
+sound/ze_frozen_throne/frozen_footstep.wav
+sound/ze_frozen_throne/frozen_victori.wav
+maps/ze_frozen_throne_b2.bsp
+maps/ze_frozen_throne_b2.txt
+maps/ze_frozen_throne_b2.res
