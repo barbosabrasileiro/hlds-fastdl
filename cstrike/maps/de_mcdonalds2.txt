@@ -1,0 +1,13 @@
+McDonalds - Bomb/Defuse
+by [SoD]KiLLa (giggsyman@giga4u.de)
+
+Briefing: Some terrorists want to bomb
+an american fast food restaurent.
+
+Counter-Terrorists: The Terrorists want
+to bomb the restaurent. Prevent the
+Terrorists from bombing the restaurent.
+
+Terrorists: Bomb the restaurent.
+
+(Press FIRE to continue)

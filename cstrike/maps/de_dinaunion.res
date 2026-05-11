@@ -1,0 +1,19 @@
+//de_dinaunion.res created with CtrikeMaps Release v 1.0 by AHBAR
+//dedina.wad
+gfx/env/desup.tga
+gfx/env/desdn.tga
+gfx/env/deslf.tga
+gfx/env/desrt.tga
+gfx/env/desft.tga
+gfx/env/desbk.tga
+//overviews/de_dinaunion.bmp
+//overviews/de_dinaunion.txt
+maps/de_dinaunion.bsp
+maps/de_dinaunion.res
+//maps/de_dinaunion.txt
+models/mil_crategibs.mdl
+models/pred_plant.mdl
+sprites/ikgrass1.spr
+sprites/ikgrass3.spr
+//models/player/guerilla/guerilla.mdl
+//models/player/gsg9/gsg9.mdl

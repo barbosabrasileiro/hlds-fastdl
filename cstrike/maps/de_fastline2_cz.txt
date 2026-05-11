@@ -1,0 +1,20 @@
+Fastline II-Bomb defuse
+
+Original Fastline Mission from CZDS by Luke Whiteside
+Port and Fit together by Izuko Fukuda
+Two months after the Fastline Operation,the Shinkin subway station was expanded,but new problems ensued:Undeterred by their defeat in the Fastline operation;the pervious defeat,attacked the newly expanded subway station,and after carrying out the inumane subway station massacre,they tried to blow up the new carriage that were about to be operated,or the load-beraing station concourse,in order to retaliate against the Japanese government.
+
+Counter-Terrorists:
+Kuso(Japanese Damn)terrorists returned two months later after massacring the subway station to try to use a C4 bomb to blow up the concourse of the expaned subway station or the newly outfitted subway cars,taking them all out before they could plant the bomb,or defusing bomb if they plant it.
+Tip:Taking advantage of decentrailzation spawn spots to attack terrorists on multiple fronts.
+
+Terrorists:
+How dare the kuso cops jeopardize your plan to blow up subway station two months ago?Now you and your team havereturned,even after killing all the passengers in the subway station,to invade the main hall of the station or the newly installed subway cars,plant and detonate your bomb,prevent Counter-Terrorsits from defuse the bomb.
+Tip:The Station is empty and lacks covers,use the Sniper Rifles and Smoke Grenades to create cover.
+
+Other Notes:
+There are two target locations in the subway station and the target locations are marked.
+
+It was pieced together from links to four maps from CZDS Fastline mission,and took me all afternoon to complete!
+
+Remember to open the software accelerated Rendering Mode turned on or it wil trigger the f**ked up Alloc:Block!!!

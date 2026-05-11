@@ -1,0 +1,10 @@
+de_nopT (v 2.0) - Bomb Defusion
+by JeRy (jery@udmlink.ru)
+
+Counter-Terrorists: Prevent the terrorists
+from destroying 2 targets.
+Terrorists: Destroy 2 targets.
+
+Other Notes: MADE IN RUSSIA!
+
+(Press FIRE to continue)
